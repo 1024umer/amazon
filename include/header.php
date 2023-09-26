@@ -54,16 +54,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <ul class="nav__list">
 
 <li><a href="/">Home</a></li>
-<li><a href="about-us">About</a></li>
-<li><a href="ecommerce-store-setup">Ecommerce Store Setup</a></li>
-<li><a href="ecommerce-marketing">Ecommerce Marketing</a></li>
-<li><a href="amazon-ad-campaign">Amazon ad Campaign</a></li>
-<li><a href="amazon-plus-marketing">AmazonPlus Marketing</a></li>
-<li><a href="amazon-book-publishing">Amazon book Publishing</a></li>
-<li><a href="deep-keyword">Deep Keyword</a></li>
-<li><a href="amazon-author">Amazon Author</a></li>
-<li><a href="brand-content">Brand Content</a></li>
-<li><a href="contact-us">Contact Us</a></li>
+<li><a href="about-us.php">About</a></li>
+<li><a href="ecommerce-store-setup.php">Ecommerce Store Setup</a></li>
+<li><a href="ecommerce-marketing.php">Ecommerce Marketing</a></li>
+<li><a href="amazon-ad-campaign.php">Amazon ad Campaign</a></li>
+<li><a href="amazon-plus-marketing.php">AmazonPlus Marketing</a></li>
+<li><a href="amazon-book-publishing.php">Amazon book Publishing</a></li>
+<li><a href="deep-keyword.php">Deep Keyword</a></li>
+<li><a href="amazon-author.php">Amazon Author</a></li>
+<li><a href="brand-content.php">Brand Content</a></li>
+<li><a href="contact-us.php">Contact Us</a></li>
 </ul>
 </div>
 </div>
@@ -85,18 +85,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li>
 <ul class="nav navbar-nav navbar-right">
 <li><a href="/">Home</a></li>
-<li><a href="expertmarketting-service">Book Marketing</a></li>
-<li><a href="expertghostwriting-service">Ghost Writing</a></li>
+<li><a href="expertmarketting-service.php">Book Marketing</a></li>
+<li><a href="expertghostwriting-servic.phpe">Ghost Writing</a></li>
 <li class="dropdown"> <a class="dropdown-toggle" data-toggle="dropdown" href="javascript:;">Amazon Services <span class="caret"></span></a>
 <ul class="dropdown-menu">
 
  
-<li><a href="expertpublishing-service">Publishing</a></li>
-<li><a href="expertprinting-service">Priting</a></li>
-<li><a href="ecommerce-store-setup">Ecommerce Store Setup</a></li>
-<li><a href="ecommerce-marketing">Ecommerce Marketing</a></li>
-<li><a href="amazon-ad-campaign">Amazon ad Campaign</a></li>
-<li><a href="amazon-plus-marketing">AmazonPlus Marketing</a></li>
+<li><a href="expertpublishing-service.php">Publishing</a></li>
+<li><a href="expertprinting-service.php">Priting</a></li>
+<li><a href="ecommerce-store-setup.php">Ecommerce Store Setup</a></li>
+<li><a href="ecommerce-marketing.php">Ecommerce Marketing</a></li>
+<li><a href="amazon-ad-campaign.php">Amazon ad Campaign</a></li>
+<li><a href="amazon-plus-marketing.php">AmazonPlus Marketing</a></li>
 
 <li><a href="deep-keyword">Deep Keyword</a></li>
 

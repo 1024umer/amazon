@@ -249,7 +249,7 @@ section.testimonial-sec {
 
 section.footersection {
     height: auto;
-    background-color: #ff9900;
+    background-color: #46a9a5;
 }
 
 .row.ourspcbt-footer {
@@ -794,7 +794,7 @@ a.navbar-brand img {
 .inner-promo-txt {
     max-width: 1196px;
     margin: auto;
-    background: #ff9900;
+    background: #46a9a5;
     border-radius: 50px;
     padding: 25px 11px;
 }
@@ -905,7 +905,7 @@ section.service-ecommerce-marketing-section .col-sm-6 {
     margin: 0;
 }
 ul.nav__list li a:hover {
-    color: #ff9e22 !important;
+    color: #46a9a5 !important;
 }
 
 

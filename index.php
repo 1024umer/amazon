@@ -56,7 +56,7 @@
 <div class="choose-icon-box">
 <img loading="lazy" src="images/chosse-1con-1.png">
 </div>
-<img src="images/src1.png" alt="">
+<img src="images/src1-replace.jpg" alt="">
 </div>
 <div class="cont">
 <h4>Professional Team</h4>
@@ -70,7 +70,7 @@
 <div class="choose-icon-box">
 <img loading="lazy" src="images/chosse-1con-2.png">
 </div>
-<img src="images/src2.png" alt="">
+<img src="images/src2-replace.jpg" alt="">
 </div>
 <div class="cont">
 <h4>Holistic Strategy</h4>
@@ -113,7 +113,7 @@
 <div class="choose-icon-box">
 <img loading="lazy" src="images/chosse-1con-4.png">
 </div>
-<img src="images/src5.png" alt="">
+<img src="images/src5-replace.jpg" alt="">
 </div>
 <div class="cont">
 <h4>Years of Experience</h4>
@@ -187,7 +187,7 @@
 
 <div class="col-sm-6">
 <div class="beneficial-main-img-box wow zoomIn" data-wow-duration="3s">
-<img loading="lazy" src="images/benefit-home/beneficial-img-1.png">
+<img loading="lazy" src="images/benefit-home/beneficial-img-1-replace.jpg">
 <div class="exp"><span>25</span> Years Experience</div>
 </div>
 </div>
