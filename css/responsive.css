@@ -1,0 +1,1021 @@
+@media (min-width:1500px) and (max-width:1690px) {
+    .banner-img-box img {width: 100%;}
+
+section.banner-section {height: auto;padding: 130px 0 130px;}
+
+.banner-before-box:before {top: 237px;left: -37px;}
+
+.banner-before-box:after {left: auto;top: 103px;right: 73px;}
+.testi-main-box {
+    margin: 40px 0 0 0;
+}
+section.choose-sectoion:before {
+    display: none;
+}
+section.service-banner-campaign-sec {
+    height: 600px;
+    padding: 20px 0 50px;
+}
+.banner-img-box img {
+    margin: 32px 0 0 -42px;
+}
+section.development-section {
+    padding: 0 0 50px 0;
+}
+
+section.banner-section.hreo_banner {
+    padding: 62px 0 62px;
+}
+.service-ecommerce-marketing-section {
+    height: 600px !important;
+    background-position: bottom;
+}
+
+}
+
+
+
+@media (min-width:1401px) and (max-width:1499px) {
+    .banner-img-box img {width: 100%;}
+
+
+
+section.banner-section {height: auto;padding: 130px 0 130px;}
+
+section.banner-section.hreo_banner {
+    height: auto;
+    padding: 50px 0 130px;
+}
+
+
+.banner-before-box:before {top: 320px;left: 0;}
+
+.banner-before-box:after {left: 31px;top: 103px;}
+.testi-main-box {
+    margin: 40px 0 0 0;
+}
+section.choose-sectoion:before {
+    display: none;
+}
+section.service-banner-campaign-sec {
+    height: 600px;
+    padding: 20px 0 50px;
+}
+section.development-section {
+    padding: 0 0 50px 0;
+}
+.service-ecommerce-marketing-section {
+    height: 600px !important;
+    background-position: bottom;
+}
+
+}
+
+@media (min-width:1200px) and (max-width:1400px) {
+    section.banner-section.hreo_banner {
+        padding: 40px 0 100px !important;
+    }
+    .service-ecommerce-marketing-section {
+    height: 600px !important;
+    background-position: bottom;
+}
+section.service-banner-campaign-sec {
+    height: 600px;
+    padding: 20px 0 50px;
+}
+
+}
+
+
+
+@media (min-width:992px) and (max-width:1199px) {
+}
+
+@media (min-width:768px) and (max-width:991px) {
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+    .contact-us-pg.px-120{display:none;}
+.testimonial-single-v2 .hidden-cont {
+    background: #fff;
+    max-width: 338px;
+    padding: 8px;
+    border-radius: 30px;
+    position: absolute;
+    width: 338px;}
+    .testimonial-single-v2 .hidden-cont span{ font-size:14px;}
+.wow {
+    animation-name: none !important;
+    visibility: visible !important;
+}
+
+.text-box h1 {
+    text-align: center;
+    font-size: 35px !important;
+    width: 100% !important;
+}
+
+section.banner-section .text-box h5 {
+    font-size: 20px;
+    text-align: center;
+}
+
+.text-box h4 {
+    font-size: 20px;
+    text-align: center !important;
+}
+
+.banner-ul-box ul {
+    text-align: center;
+    margin: 0 auto 0;
+    display: table;
+}
+
+section.banner-section .btn-box {
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px 0 20px 0;
+}
+
+.banner-before-box:after {
+    display: none;
+}
+
+.banner-img-box img {
+    display: none;
+}
+
+.banner-before-box:before {
+    display: none;
+}
+
+section.banner-section {
+    height: auto;
+    padding: 100px 0;
+}
+
+.text-box h2 {
+    font-size: 28px;
+}
+
+section.beneficial-section:before {
+    display: none;
+}
+
+.be-slider-img-box {
+    margin: auto;
+}
+
+.bene-slider-text h4 {
+    font-size: 25px;
+    text-align: center;
+}
+
+.bene-slider-text p {
+    text-align: center;
+    margin: 0 0 20px 0;
+}
+
+section.beneficial-section {
+    padding: 0 0 50px 0;
+}
+
+section.banner-section .row {
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+section.banner-section .btn-box a.nu-btn {
+    margin: 10px 0 0 0;
+    display: none !important;
+}
+
+.work-main.work-bottom-box {
+    margin: 0;
+}
+
+.work-main {
+    margin: 0 0 30px 0 !important;
+}
+
+section.faq-section .row {
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+section.faq-section .text-box h2 {
+    text-align: center;
+    margin: 0 0 20px 0;
+}
+
+section.faq-section .text-box p {
+    text-align: center;
+}
+
+.panel-heading a {
+    font-size: 15px;
+    text-align: center;
+    margin: auto;
+    display: table;
+}
+
+.inner-banner-form h2 {
+    font-size: 30px;
+    text-align: center;
+}
+
+.inner-banner-form h6 {
+    text-align: center;
+}
+
+.inner-banner-form p {
+    font-size: 14px;
+    text-align: center;
+}
+
+section.work-section .text-box h2 {
+    font-size: 25px !important;
+    width: 90%;
+    text-align: center;
+}
+
+section.work-section {
+    padding: 50px 0 30px 0;
+}
+
+section.testimonial-sec {
+    padding: 50px 0 100px 0;
+}
+
+section.footersection {
+    height: auto;
+    background-color: #ff9900;
+}
+
+.row.ourspcbt-footer {
+    text-align: center;
+}
+
+.footerbox-details {
+    text-align: center;
+    margin: auto;
+    display: table;
+}
+
+section.footersection .btn-box {
+    text-align: center;
+    justify-content: center;
+}
+
+.contact-footer a {
+    text-align: center;
+    margin: 0 auto 10px;
+    display: table;
+}
+
+section.footersection .col-sm-2 {
+    width: 50%;
+    float: left;
+    margin: 20px 0 10px 0;
+}
+
+.contact-footer a i {
+    margin: 0 10px 0 0;
+}
+.row.copyright-box {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+section{
+    overflow: hidden !important;
+}
+
+section.head-section {
+    overflow: visible !important;
+}
+.navbar-toggle .icon-bar{ background:#000;}
+ul.nav.navbar-nav.navbar-right {
+    display: block;}
+.navbar-brand{height:auto;}
+.contact-banner-before-box:before {
+    display: none;
+}
+
+.banner-about-img-box img {
+    display: none;
+}
+
+section.contact-section .row {
+    flex-wrap: wrap;
+    justify-content: center;
+}
+h2 {
+    font-size: 28px !important;
+    text-align: center !important;
+}
+
+section.contact-section .text-box p {
+    text-align: center;
+}
+section.contact-section.about-banner-section .btn-box {
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+section.contact-section {
+    height: auto;
+}
+
+section.contact-section.about-banner-section .btn-box a.nu-btn {
+    margin: 15px 0 0 0;
+}
+
+section.about-offer-section .row {
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.offer-baout-img-box img {
+    display: none;
+}
+
+section.about-offer-section .btn-box a.nu-btn {
+    font-size: 12px;
+}
+
+section.about-offer-section .btn-box a.get-btn.popun-btn {
+    font-size: 13px;
+}
+
+section.about-offer-section .text-box p {
+    text-align: center;
+}
+
+.accomplishments-section:after {
+    display: none;
+}
+
+.accompl-ul-box ul {
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.accompl-ul-box ul li {
+    width: 50%;
+    float: left;
+    margin: 0 0 25px 0;
+    text-align: center;
+}
+
+.accomplishments-section:before {
+    display: none;
+}
+
+section.accomplishments-section .btn-box {
+    margin: 0 0 0 0;
+}
+
+section.accomplishments-section .btn-box a.get-btn.popun-btn {
+    font-size: 14px;
+}
+
+section.accomplishments-section .btn-box a.nu-btn {
+    font-size: 12px;
+}
+
+.nu-box-timeline:before {}
+
+section.nuber-section {
+    display: none;
+}
+
+.counter-main-box ul {
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.counter-main-box ul li {
+    width: 50%;
+    margin: 0 0 25px 0;
+}
+
+.counter-boxx p {
+    font-size: 13px;
+}
+
+section.counter-section a.nu-btn {
+    font-size: 12px;
+}
+
+section.counter-section .btn-box a.get-btn.popun-btn {
+    font-size: 13px;
+}
+
+section.counter-section .btn-box {
+    margin: 0 0 0 0;
+}
+.banner-cont-img-box img {
+    display: none;
+}
+
+section.contact-section.btn-box {
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+section.contact-section {}
+
+.btn-box {
+    flex-wrap: wrap;
+    justify-content: center;
+}   
+
+.btn-box a.nu-btn {
+    /* margin: 15px 0 0 0; */
+}
+
+.contact-banner-form-main:before {
+    display: none;
+}
+
+section.contact-information-sec .row {
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.contact-banner-form-main:after {
+    display: none;
+}
+section.service-ecommerce-marketing-section .row {
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+section.service-ecommerce-marketing-section .text-box p {
+    text-align: center;
+    font-size: 14px;
+}
+
+section.service-ecommerce-marketing-section .text-box h2 {
+    text-align: center;
+    margin: 0px 0 0 0;
+}
+
+.banner-service-eco-img-box img {
+    display: none;
+}
+
+section.service-ecommerce-marketing-section .banner-ul-box ul li {
+    width: 100%;
+    margin: 0 0 0 0;
+}
+
+section.service-ecommerce-marketing-section .banner-ul-box ul {
+    text-align: center;
+    margin: auto;
+    display: table;
+}
+
+.text-box p br {
+    display: none;
+}
+
+.ser-color-box h2 br {
+    display: none;
+}
+
+ul.nav.nav-tabs.business {
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+ul.nav.nav-tabs.business li {
+    width: 50%;
+    margin: 0 0 15px 0;
+}
+
+ul.nav.nav-tabs.business li a {
+    font-size: 14px;
+}
+
+.business-main-box {
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.bus-typ-img img {
+    width: 100%;
+    text-align: center;
+    margin: auto;
+    display: table;
+}
+
+.ser-bus-text p {
+    width: 100%;
+    text-align: center;
+}
+
+.ser-bus-text h4 {
+    text-align: center;
+}
+
+a.nu-btn span {
+    display: none;
+}
+
+section.business-section .btn-box a.nu-btn {
+    padding: 12px 20px;
+}
+
+.bus-typ-img {
+    width: 100%;
+}
+
+.dep-typ-img img {
+    width: 100%;
+}
+
+.ser-devp-text h4 {
+    text-align: center;
+    font-size: 27px;
+}
+
+.ser-devp-text p {
+    text-align: center;
+    margin: 0 0 20px 0;
+}
+
+ul.nav.nav-tabs.development li a {
+    font-size: 16px;
+}
+
+section.offre-section .text-box h2 br {
+    display: none;
+}
+
+.offer-box {
+    text-align: center;
+    margin: 0 0 20px 0;
+}
+
+.offer-box:hover {
+    transform: revert;
+}
+.banner-service-eco-store-img-box {
+    display: none;
+}
+
+section.service-ecommerce-marketing-section {
+    height: auto !important;
+    padding: 119px 0 50px;
+}
+section.accomplishments-service-section .text-box h3{margin: 49px 0 0px 0;}
+section.accomplishments-service-section .accompl-ul-box ul{margin: 8px 0 0 0;}
+.brand-stores-main-box {
+    padding: 20px 20px;
+    margin: 5px 0 5px 0;
+}
+
+.brand-stores-main-box .btn-box a.nu-btn {
+    display: none;
+}
+
+section.development-section {
+    padding: 0 0 30px 0;
+}
+section.offre-section .col-sm-2 {
+    display: flex;
+    flex-wrap: wrap;
+    width: 50%;
+    float: left;
+    padding: 0 0 0 8px;
+}
+section.choose-sectoion:before {
+    display: none;
+}
+
+section.header-top {
+    display: none;
+}
+
+.navbar.navbar-defult {
+    margin: 0 0 0 0;
+}
+.service-banner-before-box:before {
+    display: none;
+}
+.banner-ser-img-box img {
+    display: none;
+}
+
+section.service-banner-campaign-sec .row {
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+}
+
+section.service-banner-campaign-sec .row {
+    margin: 0;
+}
+
+.with-box-ser {
+    width: 100% !important;
+    text-align: center;
+}
+
+.text-box-service h2 {
+    width: 100%;
+}
+
+.text-box-service p {
+    text-align: center;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+section.service-banner-campaign-sec {
+    height: auto;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 100px 0 50px;
+}
+
+section.servive-form-section .row {
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.ser-tex h4 {
+    text-align: center;
+}
+
+.ser-tex p {
+    text-align: center;
+}
+
+.service-sec .contact-banner-form {
+    margin: 30px 0 0 0;
+}
+
+section.accomplishments-service-section .text-box h4 {
+    font-size: 20px;
+}
+
+.optimiz-img-box:before {
+    display: none;
+}
+
+.optimiz-img-box img {
+    margin: 0 0 20px 0;
+    width: 100%;
+}
+
+section.optimizaton-sec:after {
+    display: none;
+}
+
+section.brands-sec .row {
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+section.brands-sec {
+    padding: 50px 0px;
+}
+
+.ser-tex h2 br {
+    display: none;
+}
+
+.brands-sec-before:before {
+    display: none;
+}
+
+.brands-img-box img {
+    width: 100%;
+    margin: 30px 0 0 0;
+}
+
+.counter-boxx h2 span {
+    font-size: 50px;
+}
+.banner-ser-img-marketing-box img {
+    display: none;
+}
+
+.accompl-ul-box ul li img {
+    width: 332px;
+    text-align: center;
+    margin: auto;
+    display: table;
+}
+
+.accompl-ul-box ul li {
+    text-align: center;
+    margin: auto;
+    display: table;
+}
+.banner-ser-img-publishing-box img {
+    display: none;
+}
+.banner-ser-img-other-box img {
+    display: none;
+}
+.banner-ser-brnd-ct-img-box img {
+    display: none;
+}
+
+.brnd-ser-img-box img {
+    display: none;
+}
+
+section.optimizaton-sec .platform-text-box h2 br {
+    display: none;
+}
+
+.contant-gril-img-box img {
+    margin: 20px 0 0 0;
+}
+ul.about-img-box {display: flex;flex-wrap: wrap;justify-content: center;}
+
+ul.about-img-box li img {
+    width: 80%;
+    margin: 0 auto 20px;
+}
+.powerdby {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    column-gap: 20px;
+}
+.beneficial-slider .slick-next.slick-arrow {
+    display: none !important;
+}
+.beneficial-slider .slick-prev.slick-arrow {
+    display: none !important;
+}
+.beneficial-slider .slick-dots li.slick-active button {
+    background-color: #ff9900 !important;
+}
+
+.beneficial-slider .slick-dots li button {
+   background-color: #ff9900ba !important;
+   border-radius: 50px;
+   width: 13px;
+   height: 13px;
+   position: relative;
+   top: 10px;
+   left: 0;
+   right: 0
+}
+.menu-icon {
+    display: block;
+    color: #000;
+}
+
+.navbar.navbar-defult {
+    background: transparent;
+}
+
+a.navbar-brand img {
+    width: 130px;
+    margin: 0px 0 0 0;
+}
+    .floatbutton{ display:none;}
+.inner-promo-txt .d-md-flex{display: block !important;}
+.inner-promo-txt .sec-title .tag1 {
+    font-size: 46px;
+    line-height: 29px;
+    color: #fff;
+    text-align: left !important;
+}
+.inner-promo-txt {
+    max-width: 1196px;
+    margin: auto;
+    background: #ff9900;
+    border-radius: 50px;
+    padding: 25px 11px;
+}
+.promo-text-area{padding: 39px 0;}
+.right-content-contact-pg{ padding:33px 0;}
+.be-slider-nu-box h1 {
+    display: none;
+}
+span.menu_mm {
+    display: none;
+}
+section.about-offer-section {
+    padding: 50px 0;
+}
+.choose-slider .slick-next:before {
+    content: "";
+    background-image: url(../images/arrow-right.png);
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 37px;
+    height: 27px;
+    top: -170px;
+    left: -100px;
+    right: 0;
+    color: #000;
+    font-size: 35px;
+    display: flex;
+    margin: auto;
+    display: table;
+    bottom: auto;
+}
+.choose-slider .slick-prev:before {
+    content: "";
+    background-image: url(../images/arrow-left.png);
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 37px;
+    height: 27px;
+    top: -172px;
+    left: 40px;
+    color: #000;
+    font-size: 35px;
+    bottom: auto;
+    z-index: 1;
+}
+.choose-slider .slick-prev {
+    z-index: 1;
+}
+ul.nav__list li a {
+    font-size: 16px;
+    color: #fff;
+    margin: 0 0px 0 !important;
+    padding: 15px 0;
+}
+
+ul.nav__list {}
+
+.nav__content ul {
+    padding: 0;
+    list-style: none;
+}
+
+ul.nav__list li {
+    margin: 0 0 15px 0;
+}
+.contact-footer p {
+    margin: 10px 0 0 20px !important;
+    column-gap: 0;
+}
+section.service-banner-campaign-sec .nu-btn {
+    display: none;
+}
+section.contact-section a.nu-btn {
+    display: none;
+}
+.choose-slider-2 .slick-prev:before {
+    top: 194px;
+    left: 40px !important;
+    background-size: 75% !important;
+}
+.choose-slider-2 .slick-next:before {
+    top: 195px;
+    left: -55px !important;
+    background-size: 75%;
+}
+.timline-slider .slick-next:before {
+    right: 28px !important;
+    bottom: -200px;
+    top: auto;
+}
+.timline-slider .slick-prev:before {
+    left: 28px !important;
+    top: auto;
+    bottom: -200px;
+}
+section.service-banner-campaign-sec {
+    padding: 100px 0 50px;
+    height: auto !important;
+}
+.banner-ser-deep-img-box img {
+    display: none;
+}
+.optimiz-deep-img-box img {
+    display: none;
+}
+section.service-ecommerce-marketing-section .col-sm-6 {
+    padding: 0;
+    margin: 0;
+}
+ul.nav__list li a:hover {
+    color: #ff9e22 !important;
+}
+
+
+}
+
+@media (min-width:414px) and (max-width:736px) {
+}
+
+@media (max-width:320px) {
+}
+
+@media (max-width:1280px) {
+    .banner-img-box img {width: 100%;}
+
+section.banner-section {height: auto;padding: 50px 0 113px;}
+
+.banner-before-box:before {top: 320px;left: 0;}
+
+.banner-before-box:after {left: 31px;top: 103px;}
+.testi-main-box {
+    margin: 40px 0 0 0;
+}
+section.footersection {
+    padding: 70px 0 20px 0;
+    height: auto;
+}
+section.banner-section {
+    height: auto;
+    padding: 100px 0 123px !important;
+} 
+.accomplishments-section:after {
+    right: 0;
+}
+section.choose-sectoion:before {
+    display: none;
+}
+.choose-slider-2 .slick-prev:before {
+    left: -5px;
+}
+.choose-slider-2 .slick-next:before {
+    left: -10px;
+    z-index: 1;
+}  
+.timline-slider .slick-prev:before {
+    left: 10px;
+}
+.timline-slider .slick-next:before {
+    right: 20px;
+    display: none;
+}
+.timline-slider .slick-prev {
+    left: 30%;
+}
+
+.timline-slider .slick-next {
+    right: 30%;
+}
+
+.contact-banner-form-main:after {
+    display: none;
+}
+section.service-ecommerce-marketing-section a.nu-btn {
+    display: none !important;
+}
+section.service-banner-campaign-sec {
+    height: 650px;
+    padding: 130px 0 50px;
+}
+section.development-section {
+    padding: 0 0 50px 0;
+}
+section.terms-bnr {
+    padding: 100px 0;
+}
+
+.terms-bnr h1 {
+    font-size: 30px;
+}
+.trm-txt {
+    text-align: left;
+}
+
+}
+
+@media(max-width:1366px) {
+
+    .banner-img-box img {width: 100%;}
+
+section.banner-section {height: auto;padding: 95px 0 95px !important;}
+
+.banner-before-box:before {top: 320px;left: 0;}
+
+.banner-before-box:after {left: 31px;top: 103px;}
+.testi-main-box {
+    margin: 40px 0 0 0;
+}
+.right-content-contact-pg a{ text-align:center;}
+
+section.footersection {
+    padding:14px 0 20px 0;
+    height: auto;
+}
+section.choose-sectoion:before {
+    display: none;
+}
+section.service-banner-campaign-sec {
+    height: 650px;
+    padding: 130px 0 50px;
+}
+section.development-section {
+    padding: 0 0 50px 0;
+}
+}

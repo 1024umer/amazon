@@ -1,0 +1,39 @@
+.input-number-inline > select {
+    width: 20%;
+    display:inline-block;
+    height: 41px !important;
+}
+.input-number-inline > input {
+    width: 79%;
+    display:inline-block;
+}
+.right-form-phone select{
+    border: 1px solid #e5e5e5;
+    background: white;
+    padding: 10px 15px;
+    color: gray;
+    font-size: 14px;
+    border-radius: 3px;
+    height: 50px !important;
+    font-weight: 400;
+    outline: none !important;
+    padding: 0 0 0 5px;
+    margin: 0 0 15px 0;
+}
+li.input-number-inline{
+    display: block !important;
+    width: 100% !important;
+}
+li.input-number-inline select{
+    width: 20%;
+    display: inline-block;
+    padding-left: 22px !important;
+}
+li.input-number-inline input{
+    width: 77% !important;
+    display: inline-block;
+    padding-left: 11px !important;
+}
+li.input-number-inline i {
+    top: 13px !important;
+}

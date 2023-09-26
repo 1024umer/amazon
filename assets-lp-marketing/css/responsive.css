@@ -1,0 +1,598 @@
+@media (max-width:1600px) {
+    .laptop-img {
+        width: 87%;
+    }
+    .banner-laptop {
+        transform: translate(8%, -38%);
+    }
+    .before-img1 {
+        width: 43%;
+    }
+}
+@media (max-width:1440px) {
+    .banner-laptop {
+        transform: translate(18%, -40%);
+    }
+    .before-img1 {
+        width: 42%;
+    }
+}
+@media (max-width: 1366px) {
+    .main-banner {
+        padding: 120px 0 120px;
+    }
+    .banner-form-wrapper {
+        padding-top: 30px;
+    }
+    .banner-img1 {
+        width: 70%;
+    }
+    .banner-laptop {
+        transform: translate(27%, -45%);
+    }
+    .laptop-img {
+        width: 64%;
+    }
+    .before-img1 {
+        left: -116px;
+        width: 50%;
+    }
+    .book-area {
+        left: -2%;
+        top: -15px;
+    }
+    .cta-img{
+        right: 4%;
+    }
+}
+@media (max-width: 1280px) {
+    .banner-laptop {
+        transform: translate(34%, -45%);
+    }
+    .book-area {
+    left: -1%;
+}
+.cta-img {
+    right: 10px;
+}
+}
+@media (max-width: 1199px) {
+    .home-banner {
+        padding: 200px 0 60px 0;
+    }
+    .main-banner {
+        padding: 120px 0 60px;
+    }
+    .banner-heading {
+        font-size: 39px;
+    }
+    .sec-heading {
+        font-size: 30px;
+    }
+    .banner-laptop {
+        transform: translate(43%, -38%);
+    }
+    .laptop-img {
+        width: 55%;
+    }
+    .book-area {
+        left: -2%;
+        top: -23px;
+    }
+    .main-cta .book-mark-btns button {
+        width: 135px;
+        height: 37px;
+    }
+    .main-cta .book-mark-btns .transparent-btn {
+        padding: 4px 12px;
+    }
+    .main-cta {
+        padding: 30px 0;
+    }
+    .cta-img {
+        right: -9%;
+    }
+    .cta-img img{
+        width: 81%;
+    }
+    .featured-box:hover .intro-header {
+        transform: translate3d(0,-70%,0) translate3d(0,-60px,0);
+    }
+    .featured-box {
+        min-height: 330px;
+    }
+
+    .book-mark-left-img {
+        display: flex;
+        align-items: center;
+    }
+}
+@media (max-width: 991px) {
+    .copyright-social p a {
+        color: #fff;
+    }
+    .banner-heading {
+        font-size: 26px;
+    }
+    .banner-form {
+        padding: 50px 20px 0px 25px;
+    }
+    .form-heading {
+        font-size: 32px;
+    }
+    .form-content {
+        font-size: 17px;
+        padding: 0 0 10px;
+    }
+    .form-btn-area .form-btn {
+        bottom: 27%;
+        left: 33%;
+        font-size: 15px;
+    }    
+    .btn-img {
+        width: 42%;
+    }
+    .form-btn-area {
+        position: relative;
+        bottom: 6px;
+    }
+    .left-img{
+        display: none;
+    }
+    .sec-padding {
+        padding: 40px 0px;
+    }
+    .main-cta .book-mark-btns button {
+        width: 127px;
+        height: 37px;
+    }
+    .main-cta .book-mark-btns button {
+        margin-top: 0;
+    }
+    .cta-btns button:last-child {
+        margin-left: 5px;
+    }
+    .cta-btns .black-btn-1 {
+        width: 120px !important;
+    }
+    .header-contact button i {
+        margin-right: 7px;
+    }
+    .main-cta .sec-heading {
+        font-size: 24px;
+    }
+    .why-printing .sec-heading {
+        font-size: 23px;
+    }
+    .sec-para {
+        padding: 10px 0;
+        font-size: 16px;
+    }
+    .why-print-list li {
+        font-size: 14px;
+    }
+    .black-cta .white-btn {
+        width: 130px;
+    }
+    .black-cta .gold-btn {
+        width: 160px;
+    }
+    .main-cta {
+        padding: 30px 0;
+    }
+    .testi-slider .owl-item.active.center {
+        height: 303px;
+    }
+    .copyright-social p {
+        padding-top: 0px;
+    }
+    .left-img1 {
+        border: 7px solid #fff;
+        position: absolute;
+        left: -47px;
+        top: 5%;
+    }
+    .before-img1 {
+        left: -116px;
+        width: 50%;
+        top: 0;
+        bottom: 0;
+        margin: auto;
+    }
+
+    .footer-pt {
+        padding: 50px 0px 20px;
+    }
+    .recent-books .nav-tabs{
+        justify-content: center;
+    }
+    .cta-img{
+        bottom: -32px;
+        right: -14%;
+    }
+    .testimonials .testi-slider {
+        padding-top: 0px;
+    }
+    .main-cta .book-mark-btns button{
+        margin-top: 20px;
+    }
+    .testimonials .col-md-4{
+        max-width: 100%;
+    }
+    .testi-wrapper{
+         height: 260px;
+    }
+    .testimonials .owl-carousel.owl-drag .owl-item{
+        padding-top: 55px;
+      }
+    .footer-logo {
+        text-align: center;
+        margin-top: 10px;
+    }
+    .how-it-works .col-md-4{
+        max-width: 100%;
+    }
+    .recent-books .nav-tabs li:nth-child(5n + 6){
+        margin-top: 20px;
+    }
+    .recent-books .nav-tabs .nav-item .nav-link{
+        padding: 7px 20px;
+    }
+}
+@media (max-width: 767px) {
+    .banner-form {
+        padding: 150px 60px 0px;
+        background-position: center;
+        background-size: auto;
+    }
+    .form-btn-area .form-btn {
+        bottom: 31%;
+        left: 36%;
+        font-size: 18px;
+    }
+    .form-content {
+        padding: 0 0 30px;
+    }
+    .form-btn-area {
+        bottom: 1px;
+        left: 17px;
+    }    
+    .banner-form .form-group input {
+        height: 55px;
+    }
+    .banner-form .form-group textarea {
+        height: 55px;
+    }
+    .banner-form .form-group {
+        margin-bottom: 20px;
+    }
+    .cta-btns {
+        padding-top: 20px;
+    }
+    .books-main-slider button .disabled i {
+        color: #fff;
+    }
+    .img-area{
+        display: none;
+    }
+    .sec-heading {
+        font-size: 28px;
+    }
+    .testi-slider .owl-item.active.center, .testi-slider .owl-item {
+        height: auto;
+        background-image: none;
+    }
+    .testimonial .sec-heading {
+        padding-bottom: 0;
+    }
+    .testi-slider .owl-stage {
+        align-items: start;
+    }
+    .testi-slider .owl-nav.disabled+.owl-dots {
+        margin-top: 0;
+    }
+    .contact-footer a {
+        padding-right: 6px;
+        padding-left: 6px;
+        font-size: 11px;
+    }
+    .copyright-social p {
+        font-size: 13px;
+    }
+    .copyright-social p a {
+        font-size: 13px;
+        padding-top: 10px;
+        padding-left: 10px;
+    }
+    .banner-laptop{
+        display: none;
+    }
+    .banner-img1{
+        display: none;
+    }
+    .header-contact button{
+        width: 140px
+    }
+    .form-btn-area{
+        left: 0;
+    }
+    .resp-btn{
+        width: 100% !important;
+    }
+    
+    .floatbutton{ display:none;}
+    .book-mark-left-img{
+        display: none;
+    }
+    .before-img1{
+        display: none;
+    }
+
+    .custom-sm-counter-style{
+        text-align: center;
+    }
+    .no-js .owl-carousel, .owl-carousel.owl-loaded{
+        margin: auto !important;
+    }
+    .sec-para{
+        padding: 10px 0 30px 0;
+    }
+    .mr-top{
+        margin-top: 20px ;
+    }
+    .cta-img img{
+        display: none;
+    }
+    .testi-wrapper {
+        height: 225px;
+    }
+    .counters {
+        padding-bottom: 20px;
+    }
+    .main-cta .book-mark-btns button {
+        margin-top: 0;
+    }
+    .header-contact.book-mark-btns {
+        text-align: center;
+    }
+    .how-it-works .sec-para br{
+        display: none;
+    }
+}
+@media (max-width: 575px) {
+    .logo-area img {
+        width: 150px;
+    }
+    .header-contact a{
+        border: transparent;
+    }
+    .price-box {
+        margin-bottom: 40px;
+    }
+    .books-main-slider {
+        margin: 0 auto;
+    }
+    .sec-padding {
+        text-align: left;
+    }
+    .cta-btns {
+        padding-top: 10px;
+    }
+    .cliet-review {
+        padding: 10px 0;
+    }
+    .sec-heading {
+        font-size: 24px;
+    }
+    footer .contact-footer, footer .copyright-social {
+        flex-direction: column;
+        align-items: center;
+    }
+    footer .contact-footer a, footer .copyright-social p a{
+        border: none;
+        padding: 0;
+        font-size: 14px;
+    }
+    .header-contact button {
+        width: 140px;
+        height: 36px;
+    }
+    .banner-form {
+        padding: 150px 72px 0px;
+    }
+    .sec-heading {
+        font-size: 22px;
+    }
+    .sec-para {
+        padding: 10px 0;
+        font-size: 14px;
+    }
+    .sec-heading br {
+        display: none;
+    }
+    .header-contact span {
+        display: none;
+    }
+    .counters {
+        padding-bottom: 10px;
+    }
+    .header-contact.book-mark-btns {
+        margin-top: 20px;
+    }
+    .featured-box .content{
+        bottom: 30%
+    }
+    .testi-wrapper {
+        height: 290px;
+    }
+    .testi-wrapper{
+        height: 240px;
+    }
+    li.portfolio-img {
+        width: 70% !important;
+        height: 70% !important;
+        margin: 0px auto;
+    }
+    .banner-form-wrapper {
+        padding-top: 20px;
+    }
+    .banner-form-form .form-group {
+        margin-bottom: 10px;
+    }
+    .form-btn-area {
+        padding-top: 10px;
+    }
+    .hvr-grow-shadow:hover {
+        -webkit-transform: scale(1);
+        transform: scale(1);
+    }
+}
+@media (max-width: 480px) {
+
+    .banner-heading br{
+        display: none;
+    }
+    .banner-form {
+        padding: 150px 42px 0px;
+        background-size: 100%;
+    }
+    .btn-img {
+        width: 38%;
+    }
+    .form-btn-area .form-btn {
+        bottom: 32%;
+        left: 33%;
+    }
+    .banner-form {
+        padding: 60px 30px 0px 35px;
+        background-size: cover;
+    } 
+    .form-btn-area {
+        bottom: -44px;
+    }
+    .form-btn-area .form-btn {
+        bottom: 29%;
+        left: 34%;
+    }   
+    .form-btn-area {
+        left: 0px;
+    } 
+    .banner-btns {
+        margin-bottom: 30px;
+    }
+    .main-banner {
+        padding: 140px 0 60px;
+    }
+    .banner-form .form-group input {
+        height: 48px;
+    }  
+    .banner-form .form-group textarea {
+        height: 48px;
+    }
+    .banner-form .form-group {
+        margin-bottom: 10px;
+    }
+    .recent-books .nav-tabs .nav-item .nav-link{
+        padding: 7px 16px;
+    }
+    .recent-books .nav-tabs li:nth-child(5n + 6) {
+        margin-top: 20px;
+    }
+    .portfolio-img{
+        margin-top: 20px;
+    }
+    .main-cta .book-mark-btns button{
+        width: 113px;
+    }
+    .header-contact button{
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 414px) {
+    /* .main-banner .top-content {
+        margin-top: 0%;
+    } */
+    #entry-popup .entry-box form {
+        padding: 30px 0px;
+    }
+    .top-content {
+        font-size: 19px;
+    }
+    .banner-heading {
+        font-size: 27px;
+    }
+    .sec-heading {
+        font-size: 20px;
+    }
+    .header-contact.book-mark-btns {
+        text-align: center;
+    }
+    .featured-box .content {
+        bottom: 10%;
+    }
+    .main-cta .book-mark-btns button {
+        width: 85px;
+    }
+    .btn-img {
+        width: 52%;
+    }
+    .how-it-works .sec-para br{
+        display: none;
+    }
+    .main-cta .book-mark-btns button {
+        margin-top: 10px;
+    }
+    .main-cta .transparent-btn {
+        font-size: 14px;
+    }
+    .main-cta .book-mark-btns .transparent-btn {
+        padding: 5px 5px;
+    }
+    .main-cta .sec-heading {
+        font-size: 21px;
+    }
+    .header-contact.book-mark-btns {
+        margin-top: 10px;
+    }
+    .footer-pt {
+        padding: 30px 0px 20px;
+    }
+    .featured-box {
+        min-height: 270px;
+    }
+    .featured-box:hover .intro-header {
+        transform: translate3d(0,-70%,0) translate3d(0,-40px,0);
+    }
+    #entry-popup .entry-box form p {
+        border-left: none;
+        text-indent: 0px;
+    }
+    #entry-popup .entry-box form p strong {
+        margin-left: 0px;
+    }
+    .main-header{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .top-content{
+        margin-top: 3%;
+    }
+    .form-btn-area {
+        bottom: 0;
+    }
+    .header-contact button{
+        width: 130px;
+    }
+    .recent-books .nav-tabs .nav-item .nav-link {
+        padding: 7px 10px;
+        font-size: 11px;
+    }
+    .testi-wrapper {
+        height: 290px;
+    }
+        
+    .testimonials .owl-carousel.owl-drag .owl-item {
+        padding-top: 60px;
+    }
+}
