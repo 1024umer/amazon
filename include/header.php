@@ -78,7 +78,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <span class="icon-bar"></span>
 <span class="icon-bar"></span>
 </button>
-<a class="navbar-brand" href="/"><img src="images/png.png" class="logo" alt=""></a>
+<a class="navbar-brand" href="/"><img src="images/png-replace.png" class="logo" alt=""></a>
 </div>
 <div class="collapse navbar-collapse" id="myNavbar11">
 <ul>
