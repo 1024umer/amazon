@@ -23,7 +23,7 @@
 <div class="btn-box">
 <a href="javascript:;" class="get-btn popup-btn">Get a Quote</a>
 <a href="javascript:;" class="chat-btn chats">Live Chat</a>
-<a href="tel:(888) 918-0661" class="nu-btn "> (888) 918-0661 </a>
+<a  href="tel:(888) 918-0661" class="nu-btn hover-underline-animation"> (888) 918-0661 </a>
 </div>
 </div>
 <div class="col-sm-1"></div>
@@ -140,6 +140,12 @@
 <div class="beneficial-slider">
 <div class="beneficial-main-box">
 <div class="col-sm-6">
+<div class="beneficial-main-img-box wow zoomIn" data-wow-duration="3s">
+<img loading="lazy" src="images/benefit-home/beneficial-img-1-replace.jpg">
+<div class="exp"><span>25</span> Years Experience</div>
+</div>
+</div>
+<div class="col-sm-6">
 <h5>Amazon Publishing Expert</h5>
 <div class="bene-slider-text">
 <h4 class="wow fadeInUp" data-wow-duration="2s">Creating Time-Honored Procedures</h4>
@@ -185,12 +191,6 @@
 
 </div>
 
-<div class="col-sm-6">
-<div class="beneficial-main-img-box wow zoomIn" data-wow-duration="3s">
-<img loading="lazy" src="images/benefit-home/beneficial-img-1-replace.jpg">
-<div class="exp"><span>25</span> Years Experience</div>
-</div>
-</div>
 </div>
 <div class="beneficial-main-box">
 <div class="col-sm-6">
@@ -248,6 +248,13 @@
 </div>
 <div class="beneficial-main-box">
 <div class="col-sm-6">
+<div class="beneficial-main-img-box">
+<img loading="lazy" src="images/benefit-home/beneficial-img-3.png">
+<div class="exp"><span>25</span> Years Experience</div>
+
+</div>
+</div>
+<div class="col-sm-6">
 
 <h5>Amazon Publishing Expert</h5>
 <div class="bene-slider-text">
@@ -296,19 +303,39 @@
 
 </div>
 
-<div class="col-sm-6">
-<div class="beneficial-main-img-box">
-<img loading="lazy" src="images/benefit-home/beneficial-img-3.png">
-<div class="exp"><span>25</span> Years Experience</div>
-
-</div>
-</div>
 </div>
 </div>
 </div>
 </div>
 </div>
 </section>
+<div class="clearfix"></div>
+
+<div class="promo-text-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="inner-promo-txt">
+                        <div class="d-md-flex justify-content-between align-items-center">
+                            <div class="sec-title">
+                                <h3 class="text-white"><img src="img/icons/title-icon-infinity.svg" alt=""> We Are Hire</h3>
+                                <h2 class="text-white tag1">Tell us About Your Business, We are Ready to Solve.</h2>
+                            </div>
+                            <div class="btn-area">
+                                <a href="contact-us" class="btn btn-default">Contact Us</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div><!--/.container-->
+        <span class="banner-frame-one"></span>
+        <span class="banner-frame-two"></span>
+        <span class="banner-frame-three"></span>
+        <span class="banner-frame-four"></span>
+        <div class="shape-top-left aos-init aos-animate" data-aos="fade-down" data-aos-delay="500"></div>
+        <div class="shape-bottom-right aos-init" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="1000"></div>
+    </div>
 <section class="work-section">
 <div class="container">
 <div class="row">
@@ -360,47 +387,18 @@
 </div>
 </div>
 
-</section><div class="clearfix"></div>
-
-<div class="promo-text-area">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="inner-promo-txt">
-                        <div class="d-md-flex justify-content-between align-items-center">
-                            <div class="sec-title">
-                                <h3 class="text-white"><img src="img/icons/title-icon-infinity.svg" alt=""> We Are Hire</h3>
-                                <h2 class="text-white tag1">Tell us About Your Business, We are Ready to Solve.</h2>
-                            </div>
-                            <div class="btn-area">
-                                <a href="contact-us" class="btn btn-default">Contact Us</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div><!--/.container-->
-        <span class="banner-frame-one"></span>
-        <span class="banner-frame-two"></span>
-        <span class="banner-frame-three"></span>
-        <span class="banner-frame-four"></span>
-        <div class="shape-top-left aos-init aos-animate" data-aos="fade-down" data-aos-delay="500"></div>
-        <div class="shape-bottom-right aos-init" data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="1000"></div>
-    </div>
+</section>
 <div class="clearfix"></div>
 <section class="faq-section">
 <div class="container">
 <div class="col-sm-12 wow fadeInLeft" data-wow-duration="2s">
 <div class="text-box">
 
-<h2>Frequently Asked Questions</h2>
+<h2 >Frequently Asked Questions</h2>
 
 </div>
 <div class="row">
-<div class="col-md-4">
-<img src="images/faq-img.png" alt="" style="width:100%">
-    </div>
-    <div class="col-md-8">
+<div class="col-md-8">
 <div class="accordion" id="accordion2 ">
 <div class="wrapper center-block">
 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true ">
@@ -466,6 +464,10 @@ I already run a profitable online store. Do I have to run ads on Amazon?
 </div>
 </div>
 </div>
+<div class="col-md-4">
+<img src="images/faq-img-replace.jpg" alt="" style="width:100%">
+    </div>
+    
 </div>
 </div>
 
@@ -480,37 +482,7 @@ I already run a profitable online store. Do I have to run ads on Amazon?
                 <div class="col-12">
                     <div class="inner-contact-pg">
                         <div class="row">
-                            <div class="col-lg-6">
-                                <div class="left-content-con-pg">
-                                    <div class="sec-title">
-                                        <h1>Contact With Us</h1>
-                                        <p>Send us a message and we' ll respond as soon as possible</p>
-                                    </div>
-                                    <form method="POST" action="sendmail.php">
-                                        <div class="row g-4">
-                                            <div class="col-md-6">
-                                                <input type="text" name="name" placeholder="First Name*" class="form-control">
-                                            <div data-lastpass-icon-root="true" style="position: relative !important; height: 0px !important; width: 0px !important; float: left !important;"></div></div>
-                                            <div class="col-md-6">
-                                                <input type="text" name="last_name" placeholder="Last Name*" class="form-control">
-                                            </div>
-                                            <div class="col-md-6">
-                                                <input type="text" name="email" placeholder="Email Address*" class="form-control">
-                                            </div>
-                                            <div class="col-md-6">
-                                                <input type="number" name="phone" placeholder="Phone Number*" class="form-control">
-                                            </div>
-                                            <div class="col-md-12">
-                                                <textarea class="form-control" name="message" rows="6" placeholder="Your Message here" required></textarea>
-                                            </div>
-                                            <div class="col-12">
-                                                <button type="submit" class="btn btn-default">Send Message</button>
-                                            </div>
-                                        </div>
-                                    </form>
-                                </div><!--/.left-content-con-pg-->
-                            </div>
-                            <div class="col-lg-6">
+                        <div class="col-lg-6">
                                 <div class="right-content-contact-pg">
                                     <div class="tt">
                                         <h1>Need Any Help?</h1>
@@ -543,6 +515,36 @@ I already run a profitable online store. Do I have to run ads on Amazon?
                                         <img src="images/contact-illast.png" alt="">
                                     </div>
                                 </div><!--/.right-content-contact-->
+                            </div>
+                            <div class="col-lg-6">
+                                <div class="left-content-con-pg">
+                                    <div class="sec-title">
+                                        <h1>Contact With Us</h1>
+                                        <p>Send us a message and we' ll respond as soon as possible</p>
+                                    </div>
+                                    <form method="POST" action="sendmail.php">
+                                        <div class="row g-4">
+                                            <div class="col-md-6">
+                                                <input type="text" name="name" placeholder="First Name*" class="form-control">
+                                            <div data-lastpass-icon-root="true" style="position: relative !important; height: 0px !important; width: 0px !important; float: left !important;"></div></div>
+                                            <div class="col-md-6">
+                                                <input type="text" name="last_name" placeholder="Last Name*" class="form-control">
+                                            </div>
+                                            <div class="col-md-6">
+                                                <input type="text" name="email" placeholder="Email Address*" class="form-control">
+                                            </div>
+                                            <div class="col-md-6">
+                                                <input type="number" name="phone" placeholder="Phone Number*" class="form-control">
+                                            </div>
+                                            <div class="col-md-12">
+                                                <textarea class="form-control" name="message" rows="6" placeholder="Your Message here" required></textarea>
+                                            </div>
+                                            <div class="col-12">
+                                                <button type="submit" class="btn btn-default">Send Message</button>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div><!--/.left-content-con-pg-->
                             </div>
                         </div>
                     </div><!--/.inner-contact-pg-->

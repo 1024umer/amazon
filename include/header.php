@@ -7,7 +7,7 @@
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
 <meta charset="UTF-8">
-<title>Amazon Publication Experts</title>
+<title>Amz Publication Experts</title>
 <meta name="facebook-domain-verification" content="tx13joxxzo2tg1aimdvtuj0xlfepvy" />
 <meta name="description" content="   Amazon Publication Experts is a marketing agency that provides premium Amazon marketing services in the USA. We take a holistic approach to create your campaign, execute it, and achieve results.">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -53,17 +53,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div class="nav__content">
 <ul class="nav__list">
 
-<li><a href="/">Home</a></li>
-<li><a href="about-us.php">About</a></li>
-<li><a href="ecommerce-store-setup.php">Ecommerce Store Setup</a></li>
-<li><a href="ecommerce-marketing.php">Ecommerce Marketing</a></li>
-<li><a href="amazon-ad-campaign.php">Amazon ad Campaign</a></li>
-<li><a href="amazon-plus-marketing.php">AmazonPlus Marketing</a></li>
-<li><a href="amazon-book-publishing.php">Amazon book Publishing</a></li>
-<li><a href="deep-keyword.php">Deep Keyword</a></li>
-<li><a href="amazon-author.php">Amazon Author</a></li>
-<li><a href="brand-content.php">Brand Content</a></li>
-<li><a href="contact-us.php">Contact Us</a></li>
+<li><a class="hover-underline-animation" href="/">Home</a></li>
+<li><a class="hover-underline-animation" href="about-us.php">About</a></li>
+<li><a class="hover-underline-animation" href="ecommerce-store-setup.php">Ecommerce Store Setup</a></li>
+<li><a class="hover-underline-animation" href="ecommerce-marketing.php">Ecommerce Marketing</a></li>
+<li><a class="hover-underline-animation" href="amazon-ad-campaign.php">Amazon ad Campaign</a></li>
+<li><a class="hover-underline-animation" href="amazon-plus-marketing.php">AmazonPlus Marketing</a></li>
+<li><a class="hover-underline-animation" href="amazon-book-publishing.php">Amazon book Publishing</a></li>
+<li><a class="hover-underline-animation" href="deep-keyword.php">Deep Keyword</a></li>
+<li><a class="hover-underline-animation" href="amazon-author.php">Amazon Author</a></li>
+<li><a class="hover-underline-animation" href="brand-content.php">Brand Content</a></li>
+<li><a class="hover-underline-animation" href="contact-us.php">Contact Us</a></li>
 </ul>
 </div>
 </div>
@@ -84,27 +84,27 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <ul>
 <li>
 <ul class="nav navbar-nav navbar-right">
-<li><a href="/">Home</a></li>
-<li><a href="expertmarketting-service.php">Book Marketing</a></li>
-<li><a href="expertghostwriting-servic.phpe">Ghost Writing</a></li>
+<li><a class="hover-underline-animation" class="hover-underline-animation" href="/">Home</a></li>
+<li><a class="hover-underline-animation" href="expertmarketting-service.php">Book Marketing</a></li>
+<li><a class="hover-underline-animation" href="expertghostwriting-service.php">Ghost Writing</a></li>
 <li class="dropdown"> <a class="dropdown-toggle" data-toggle="dropdown" href="javascript:;">Amazon Services <span class="caret"></span></a>
 <ul class="dropdown-menu">
 
  
-<li><a href="expertpublishing-service.php">Publishing</a></li>
-<li><a href="expertprinting-service.php">Priting</a></li>
-<li><a href="ecommerce-store-setup.php">Ecommerce Store Setup</a></li>
-<li><a href="ecommerce-marketing.php">Ecommerce Marketing</a></li>
-<li><a href="amazon-ad-campaign.php">Amazon ad Campaign</a></li>
-<li><a href="amazon-plus-marketing.php">AmazonPlus Marketing</a></li>
+<li><a class="hover-underline-animation" href="expertpublishing-service.php">Publishing</a></li>
+<li><a class="hover-underline-animation" href="expertprinting-service.php">Priting</a></li>
+<li><a class="hover-underline-animation" href="ecommerce-store-setup.php">Ecommerce Store Setup</a></li>
+<li><a class="hover-underline-animation" href="ecommerce-marketing.php">Ecommerce Marketing</a></li>
+<li><a class="hover-underline-animation" href="amazon-ad-campaign.php">Amazon ad Campaign</a></li>
+<li><a class="hover-underline-animation" href="amazon-plus-marketing.php">AmazonPlus Marketing</a></li>
 
-<li><a href="deep-keyword">Deep Keyword</a></li>
+<li><a class="hover-underline-animation" href="deep-keyword">Deep Keyword</a></li>
 
-<li><a href="brand-content">Brand Content</a></li>
+<li><a class="hover-underline-animation" href="brand-content">Brand Content</a></li>
 </ul>
 </li>
-<li><a href="about-us">About</a></li>
-<li><a href="contact-us">Contact Us </a></li>
+<li><a class="hover-underline-animation" href="about-us.php">About</a></li>
+<li><a class="hover-underline-animation" href="contact-us.php">Contact Us </a></li>
 <a href="javascript:;" class="get-btn popup-btn">Get a Quote</a>
 </ul>
 

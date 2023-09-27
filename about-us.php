@@ -23,28 +23,7 @@
 </div>
 </div>
 </section>
-<section class="about-offer-section">
-<div class="container">
-<div class="row">
-<div class="col-sm-6">
-<div class="offer-baout-img-box wow zoomIn" data-wow-duration="3s">
-<img src="images/offer-1ab.png">
-</div>
-</div>
-<div class="col-sm-6">
-<div class="text-box ">
-<h2 class="wow fadeInUp" data-wow-duration="2s">Why Do Companies Choose Us?</h2>
-<p class="wow fadeInUp" data-wow-duration="3s">Do you want to increase the number of people that visit your online store? If someone were to visit your online store, would you want to? We assist our clients in achieving ground-breaking results with the help of our wide e-commerce, marketing, and Amazon services.</p>
-</div>
-<div class="btn-box wow fadeInUp" data-wow-duration="4s">
-<a href="javascript:;" class="get-btn popup-btn">Get a Quote</a>
-<a href="/cdn-cgi/l/email-protection#76564e40405b4042435b4446464056" class="nu-btn "><span>Call:Us</span> (888) 918-0661 </a>
 
-</div>
-</div>
-</div>
-</div>
-</section>
 <section class="choose-sectoion choose-stor">
 <div class="container">
 <div class="row">
@@ -166,6 +145,7 @@
 </div>
 </div>
 </section>
+
 <section class="nuber-section">
 <div class="container">
 <div class="row">
@@ -239,6 +219,28 @@
 </div>
 </div>
 
+</div>
+</div>
+</div>
+</section>
+<section class="about-offer-section">
+<div class="container">
+<div class="row">
+<div class="col-sm-6">
+<div class="offer-baout-img-box wow zoomIn" data-wow-duration="3s">
+<img src="images/offer-1ab.png">
+</div>
+</div>
+<div class="col-sm-6">
+<div class="text-box ">
+<h2 class="wow fadeInUp" data-wow-duration="2s">Why Do Companies Choose Us?</h2>
+<p class="wow fadeInUp" data-wow-duration="3s">Do you want to increase the number of people that visit your online store? If someone were to visit your online store, would you want to? We assist our clients in achieving ground-breaking results with the help of our wide e-commerce, marketing, and Amazon services.</p>
+</div>
+<div class="btn-box wow fadeInUp" data-wow-duration="4s">
+<a href="javascript:;" class="get-btn popup-btn">Get a Quote</a>
+<a href="/cdn-cgi/l/email-protection#76564e40405b4042435b4446464056" class="nu-btn "><span>Call:Us</span> (888) 918-0661 </a>
+
+</div>
 </div>
 </div>
 </div>

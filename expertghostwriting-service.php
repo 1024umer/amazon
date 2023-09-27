@@ -86,6 +86,15 @@
 <section class="servive-form-section service-sec">
 <div class="container">
 <div class="row">
+
+<div class="col-sm-5">
+<div class="contact-banner-form-main wow fadeInRight" data-wow-duration="2s">
+<div class="contact-banner-form">
+<h2>Ready To Continue?</h2>
+<p>Please complete the form underneath, and we will contact you soon.</p>
+<?php include('include/leadform.php'); ?>
+</div>
+</div> </div>
 <div class="col-sm-7 service-form-before">
 <div class="ser-tex">
 <h4 class="wow fadeInUp" data-wow-duration="2s">Hire Amazon Publication Experts For </h4>
@@ -99,14 +108,6 @@ Whether you need a ghostwriter for your book, blog, article, speech, or any othe
 
 </div>
 </div>
-<div class="col-sm-5">
-<div class="contact-banner-form-main wow fadeInRight" data-wow-duration="2s">
-<div class="contact-banner-form">
-<h2>Ready To Continue?</h2>
-<p>Please complete the form underneath, and we will contact you soon.</p>
-<?php include('include/leadform.php'); ?>
-</div>
-</div> </div>
 </div>
 </div>
 </section>
@@ -181,7 +182,7 @@ Contact us today to learn more about our ghostwriting services and how we can he
 </div>
 <div class="col-sm-4 col-sm-offset-1 brands-sec-before">
 <div class="contant-gril-img-box wow zoomIn" data-wow-duration="3s">
-<img src="images/contant-gril-1.png">
+<img src="images/contant-gril-1-replace.png">
 </div>
 </div>
 </div>
