@@ -53,7 +53,7 @@
 <div class="contact-footer">
 <a href="tel:(888) 918-0661"> <i class="fa fa-volume-control-phone" aria-hidden="true"></i><span> (888) 918-0661 </span> </a>
 <a href="mailto:sales@amazonpublicationexpert.com"><i class="fa fa-envelope" aria-hidden="true"></i> sales@amazonpublicationexpert.com</a>
-<p><i class="fa fa-map-marker" aria-hidden="true"></i> <span>442 5th Avenue  <br> Manhattan, NY 10018<span class="blockdiv"></span></span></p>
+<p><i class="fa fa-map-marker" aria-hidden="true"></i> <span>Crynotixsolllc  <br> 1224 Lake knoll dr lilburn GA 30047<span class="blockdiv"></span></span></p>
 </div>
 </div>
 </div>
