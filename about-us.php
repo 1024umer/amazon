@@ -3,10 +3,10 @@
 <section class="contact-section about-banner-section">
 <div class="container">
 <div class="row">
-<div class="col-sm-5">
+<div class="col-sm-12">
 <div class="text-box ">
-<h2 class="wow fadeInUp" data-wow-duration="2s">Amazon's Most Reputable Service Provider In The US</h2>
-<p class="wow fadeInUp" data-wow-duration="3s">Amazon Publication Experts Are The Amazon Specialists, Working To Increase Sales For Top-Notch Companies Using Our Battle-Tested Strategies And Extraordinary Knowledge. 
+<h2 class="wow fadeInUp" data-wow-duration="2s">Expand Your Amazon Business With AMZ Publishing Experts </h2>
+<p class="wow fadeInUp" data-wow-duration="3s">When you choose AMZ Publishing Experts as your partner, you're selecting a dedicated team committed to elevating your marketing strategies, optimizing outcomes, and achieving enduring success. 
 </p>
 </div>
 <div class="btn-box wow fadeInUp" data-wow-duration="3s">
@@ -15,29 +15,31 @@
 
 </div>
 </div>
-<div class="col-sm-7 contact-banner-before-box">
+<!-- <div class="col-sm-7 contact-banner-before-box">
 <div class="banner-about-img-box wow zoomIn" data-wow-duration="3s">
 <img src="images/banner-about-img-gril.png">
-</div>
+</div> -->
 </div>
 </div>
 </div>
 </section>
 
 <section class="choose-sectoion choose-stor">
-<div class="container">
+<div class="">
 <div class="row">
 <div class="col-sm-12">
 <div class="text-box platform-text-box">
-<h2 class="wow fadeInUp" data-wow-duration="2s">Several Outstanding Points for Choosing Amazon Publication Experts
-</h2>
-<p class="wow fadeInUp" data-wow-duration="3s">The following are just a few of the many ways we stand out from other Amazon service providers in a market flooded with hundreds of businesses and independent contractors.
-</p>
+	<div class="container">
+			<h2 class="wow fadeInUp" data-wow-duration="2s">Unique Factors That Set AMZ Publishing Experts Apart
+				</h2>
+				<p class="wow fadeInUp" data-wow-duration="3s">In a crowded market filled with multiple Amazon service providers, we take pride in standing out for several compelling reasons:
+					</p>
+		</div>
 </div>
 </div>
 <div class="col-sm-12">
 
-<div class=" choose-slider-2">
+<div class="">
 <div class="col-sm-4">
 <div class="choose-tetx twoo wow fadeInUp" data-wow-duration="1s">
 	<div class="imagess">
@@ -46,8 +48,9 @@
 </div>
 <img src="images/tried.jpg" alt="">
 </div>
-<h4>Tried And True Strategies:</h4>
-<p>Having struggled for years, we've developed tried-and-true methods that never fail to surprise clients and produce excellent results for everyone.</p>
+<h4>Proven and Reliable Strategies</h4>
+<p>After years of dedicated effort, we've honed our strategies to perfection. These time-tested methods consistently yield exceptional results, leaving our clients pleasantly surprised.
+</p>
 </div>
 </div>
 
@@ -59,8 +62,9 @@
 </div>
 <img src="images/goal.jpg" alt="">
 </div>
-<h4>Dedicated To Achieving a Goal:</h4>
-<p>We adopt your goal as our own and achieve it in a highly professional and timely manner after evaluating your vision.</p>
+<h4>Commitment to Your Goals</h4>
+<p>Your vision becomes our mission. We undertake a thorough evaluation of your objectives and then pursue them with unconditional professionalism and efficiency.
+</p>
 </div>
 </div>
 <div class="col-sm-4">
@@ -71,8 +75,8 @@
 </div>
 <img src="images/client.jpg" alt="">
 </div>
-<h4>Devoted To Providing Client Services:</h4>
-<p>The idea of client satisfaction has become our priority. Our passion drives us to put in nonstop effort to produce results.</p>
+<h4>Passionate Professionals</h4>
+<p>The essence of our company is our team. We're not just experts; we're passionate individuals dedicated to the art of publishing, marketing, and e-commerce.</p>
 </div>
 </div>
 <div class="col-sm-4">
@@ -83,8 +87,9 @@
 </div>
 <img src="images/technology.jpg" alt="">
 </div>
-<h4>Supported By Technology:</h4>
-<p>We not only have a team of smart minds, but we have also given them the tools they need to execute it correctly each and every time.</p>
+<h4>Commitment to Customer Satisfaction</h4>
+<p>Our top priority is always serving our clients. Our passion drives us to work tirelessly and deliver outcomes that go above and beyond.
+</p>
 </div>
 </div>
 <div class="col-sm-4">
@@ -95,8 +100,9 @@
 </div>
 <img src="images/expert.jpg" alt="">
 </div>
-<h4>Expert Group:</h4>
-<p>We have the honor of working with a group of dedicated Amazon specialists who can create plans that are customized to your individual requirements.</p>
+<h4>Embracing Long-Term Vision</h4>
+<p>We believe in the power of long-term planning. Our strategies secure lasting outcomes that will elevate your business well into the future.
+</p>
 </div>
 </div>
 <div class="col-sm-4">
@@ -107,8 +113,8 @@
 </div>
 <img src="images/perspective.jpg" alt="">
 </div>
-<h4>Long-Term Perspective: </h4>
-<p>We believe in long-term planning to ensure lasting outcomes rather than just booming your business for a single day.
+<h4>Empowered by Technology </h4>
+<p>Equipping our team of brilliant minds with cutting-edge tools ensures flawless execution every single time. For the best results, we combine human expertise and technological expertise.
 </p>
 </div>
  </div>
@@ -122,18 +128,18 @@
 <div class="row">
 <div class="col-sm-12">
 <div class="text-box">
-<h2 class="wow fadeInUp" data-wow-duration="2s">The Brands You Love Trust Us</h2>
-<p class="wow fadeInUp" data-wow-duration="2s">Hundreds of companies have benefited from the help of Amazon Publication Experts in developing their Amazon presence. Look at some of the well-known brands we have worked with:</p>
+<h2 class="wow fadeInUp" data-wow-duration="2s">Leading Brands That Trust Us</h2>
+<p class="wow fadeInUp" data-wow-duration="2s">AMZ Publishing Experts have been instrumental in enhancing the Amazon presence of numerous companies. Take a glimpse at some of the renowned names that have partnered with us:</p>
 </div>
 <div class="accompl-ul-box">
 <ul class="about-img-box wow zoomIn" data-wow-duration="3s">
-<li><img src="images/accoppl-img1.png"></li>
-<li><img src="images/accoppl-img2.png"></li>
+<!-- <li><img src="images/accoppl-img1.png"></li> -->
+<!-- <li><img src="images/accoppl-img2.png"></li> -->
 <li><img src="images/accoppl-img3.png"></li>
 <li><img src="images/accoppl-img4.png"></li>
-<li><img src="images/accoppl-img5.png"></li>
+<!-- <li><img src="images/accoppl-img5.png"></li> -->
 <li><img src="images/accoppl-img6.png"></li>
-<li><img src="images/accoppl-img7.png"></li>
+<!-- <li><img src="images/accoppl-img7.png"></li> -->
 </ul>
 </div>
 <div class="btn-box wow fadeInUp" data-wow-duration="4s">
@@ -162,8 +168,8 @@
 <div class="row">
 <div class="col-sm-12">
 <div class="text-box ">
-<h2 class="wow fadeInUp" data-wow-duration="2s">Our Timeline</h2>
-<p class="wow fadeInUp" data-wow-duration="3s">Amazon Publication Experts started their company from beginning, but we always made sure to provide dedication and teamwork to progressively turn into a versatile organization. Our customers appreciate us the most because we have established our presence all over the world. We have never run away from a challenge, and this is the key to our success.
+<h2 class="wow fadeInUp" data-wow-duration="2s">Our Journey Over the Years</h2>
+<p class="wow fadeInUp" data-wow-duration="3s">AMZ Publishing Experts embarked on its journey from humble beginnings, driven by a deep commitment to dedication and teamwork. Over time, we have evolved into a versatile organization, earning the trust and appreciation of customers worldwide. Our unwavering determination to face challenges head-on and overcome them is the reason for our long-lasting success.
 </p>
 </div>
 </div>
@@ -174,7 +180,8 @@
 <h3>1997 to 2002</h3>
 </div>
 <div class="timeline-pera-box">
-<p>3 years after the launch of Amazon, Amazon Profs started its journey to provide Amazon services to businesses.</p>
+<p>A mere three years after Amazon's inception, AMZ Publishing Experts embarked on its mission to provide comprehensive Amazon services to businesses.
+</p>
 </div>
 </div>
 </div>
@@ -184,7 +191,8 @@
 <h3>2002 to 2007</h3>
 </div>
 <div class="timeline-pera-box">
-<p>With the help of current Amazon marketing and eCommerce, we have continuously evolved.</p>
+<p>Our journey has been marked by consistent advancement, driven by the ever-evolving landscape of modern Amazon marketing and e-commerce.
+</p>
 </div>
 </div>
 </div>
@@ -194,7 +202,8 @@
 <h3>2007 to 2012</h3>
 </div>
 <div class="timeline-pera-box">
-<p>We continued to develop in the era of smartphones, pushing online purchasing through a mobile-friendly eCommerce store.</p>
+<p>As the smartphone era dawned, we adapted seamlessly, fostering online shopping by creating mobile-friendly e-commerce stores.
+</p>
 </div>
 </div>
 </div>
@@ -204,7 +213,8 @@
 <h3>2012 to 2017</h3>
 </div>
 <div class="timeline-pera-box">
-<p>For improved user experiences and online payment modules, we have always prioritized our customers.</p>
+<p>Our constant priority has been improving user experiences and streamlining online payment processes throughout this time, always keeping our customers in mind.
+</p>
 </div>
 </div>
 </div>
@@ -214,7 +224,8 @@
 <h3>2017 till Today</h3>
 </div>
 <div class="timeline-pera-box">
-<p>We have consistently improved ourselves and continue to evolve as the technology and the world advance.</p>
+<p>In an ever-changing world driven by technology, we continues to evolve and grow, consistently improving ourselves to meet the evolving needs of our clients.
+</p>
 </div>
 </div>
 </div>
@@ -224,6 +235,14 @@
 </div>
 </section>
 <section class="about-offer-section">
+	<div class="container">
+
+		<div class="text-box">
+			<h2 class="wow fadeInUp" data-wow-duration="2s">Our Mission</h2>
+			<p class="wow fadeInUp" data-wow-duration="3s">Our mission is to empower individuals and businesses by offering high-quality publishing, marketing, and e-commerce solutions. We believe that everyone deserves the opportunity to share their message, sell their products, and achieve their dreams.
+				</p>
+			</div>
+		</div>
 <div class="container">
 <div class="row">
 <div class="col-sm-6">
@@ -233,8 +252,8 @@
 </div>
 <div class="col-sm-6">
 <div class="text-box ">
-<h2 class="wow fadeInUp" data-wow-duration="2s">Why Do Companies Choose Us?</h2>
-<p class="wow fadeInUp" data-wow-duration="3s">Do you want to increase the number of people that visit your online store? If someone were to visit your online store, would you want to? We assist our clients in achieving ground-breaking results with the help of our wide e-commerce, marketing, and Amazon services.</p>
+<h2 class="wow fadeInUp" data-wow-duration="2s">Why Our Amazon Services Deliver Outstanding Results?</h2>
+<p class="wow fadeInUp" data-wow-duration="3s">Our clients choose us time and again due to our unwavering professionalism, guaranteed success, and budget-friendly Amazon marketing solutions. If you need more reasons to believe in our expertise, consider the following:</p>
 </div>
 <div class="btn-box wow fadeInUp" data-wow-duration="4s">
 <a href="javascript:;" class="get-btn popup-btn">Get a Quote</a>
@@ -264,25 +283,25 @@
 <li>
 <div class="counter-boxx wow fadeInUp" data-wow-duration="2s">
 <h2><span class="count">30</span>+</h2>
-<p>Amazon <br>Store Builders</p>
+<p>Skilled Amazon <br>Store Builders</p>
 </div>
 </li>
 <li>
 <div class="counter-boxx wow fadeInUp" data-wow-duration="3s">
-<h2><span class="count">100</span>%</h2>
-<p>Client <br>Satisfaction Rate</p>
+<h2><span class="count">10</span>+</h2>
+<p>Years of<br> Industry Experience </p>
 </div>
 </li>
 <li>
 <div class="counter-boxx wow fadeInUp" data-wow-duration="4s">
 <h2><span class="count">2500</span>+</h2>
-<p>Daily <br>Visitors</p>
+<p>Daily Visitors to<br> Our Clients' Platforms</p>
 </div>
 </li>
 <li>
 <div class="counter-boxx wow fadeInUp" data-wow-duration="5s">
-<h2><span class="count">10</span>+</h2>
-<p>Years of <br>Industry Experience</p>
+<h2><span class="count">100</span>%</h2>
+<p>Customer<br> Satisfaction</p>
 </div>
 </li>
 </ul>

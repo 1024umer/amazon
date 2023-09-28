@@ -3,7 +3,7 @@
 <section class="service-ecommerce-marketing-section">
 <div class="container">
 <div class="row">
-<div class="col-sm-6">
+<div class="col-sm-12">
 <div class="text-box text-color-box">
 <h2 class="wow fadeInUp" data-wow-duration="2s">Let Us Help You Reach a Wider Audience for Your Book</h2>
 <p class="wow fadeInUp" data-wow-duration="3s">To help you spread the word about your book, we've team of industry experts who offer you feasible book marketing strategies that you can apply at any time. Our marketing strategies are tailored to meet the needs of each and every one of our customers because we recognize that each book is distinctive in its own right and that each book necessitates a distinctive marketing strategy to achieve maximum sales.</p>
@@ -25,11 +25,11 @@
 </div>
 </div>
 
-<div class="col-sm-6 service-banner-before-box">
+<!-- <div class="col-sm-6 service-banner-before-box">
 <div class="banner-service-eco-store-img-box wow zoomIn" data-wow-duration="3s">
 <img src="images/service-banner-ecomerce-stor.png">
 </div>
-</div>
+</div> -->
 </div>
 </div>
 </section>

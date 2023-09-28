@@ -4,7 +4,7 @@
 <section class="service-banner-campaign-sec">
 <div class="container">
 <div class="row">
-<div class="col-sm-5">
+<div class="col-sm-12">
 <div class="text-box-service with-box-ser">
 <h2 class="wow fadeInUp" data-wow-duration="2s">Write Your Book, Share Your Story with Our Ghostwriting Service</h2>
 <p class="wow fadeInUp" data-wow-duration="3s">Are you looking for a reliable and professional ghostwriting services to help you bring your ideas to life? Look no further! Our team of expert ghost writers is here to provide you with top-notch ghost writing services that meet your specific needs.</p>
@@ -15,11 +15,11 @@
 
 </div>
 </div>
-<div class="col-sm-5 col-sm-offset-1 contact-banner-before-box">
+<!-- <div class="col-sm-5 col-sm-offset-1 contact-banner-before-box">
 <div class="banner-ser-brnd-ct-img-box wow zoomIn" data-wow-duration="3s">
 <img src="images/ser-banner-brand-contant.png">
 </div>
-</div>
+</div> -->
 </div>
 </div>
 </section>

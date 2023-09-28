@@ -4,7 +4,7 @@
 <section class="banner-section hreo_banner">
 <div class="container">
 <div class="row">
-<div class="col-sm-5">
+<div class="col-sm-12">
 <div class="text-box ">
 <h1 class="wow fadeInUp" data-wow-duration="2s">Grow Your Amazon Presence With Us</h1>
 <h5 class="wow fadeInUp" data-wow-duration="3s">We are a team of dedicated professionals with a passion for publishing, marketing, and e-commerce. Our journey began with a basic concept: </h5>
@@ -21,17 +21,17 @@
 </ul>
 </div>
 <div class="btn-box">
-<a href="javascript:;" class="get-btn popup-btn">Get a Quote</a>
+<!-- <a href="javascript:;" class="get-btn popup-btn">Get a Quote</a> -->
 <a href="javascript:;" class="chat-btn chats">Live Chat</a>
 <a  href="tel:(888) 918-0661" class="nu-btn hover-underline-animation"> (888) 918-0661 </a>
 </div>
 </div>
-<div class="col-sm-1"></div>
+<!-- <div class="col-sm-1"></div>
 <div class="col-sm-6 banner-before-box">
 <div class="banner-img-box ">
 <img src="images/amazon1.png">
 </div>
-</div>
+</div> -->
 </div>
 </div>
 </section>

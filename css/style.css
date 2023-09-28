@@ -23,6 +23,7 @@ section {
 	width: 100%;
 }
 .choose-tetx:hover {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     transform: scale(1.1);
     transition: .7s ease-in-out;
 }
@@ -183,6 +184,7 @@ section.header-top {
 
 /*section.banner-section*/
 section.banner-section {
+    background-attachment: fixed;
 	padding: 0px 0px 50px;
 	background-image: url(../images/banner-1.jpg);
 	background-repeat: no-repeat;
@@ -202,7 +204,7 @@ section.banner-section .row {
 .text-box h1 {
 	font-size: 45px;
 	font-weight: bold;
-	color: #fff;
+    color: #46a9a5;
 	margin: 0 0 35px 0;
 	width: 110%;
 }
@@ -257,11 +259,12 @@ section.banner-section .text-box h4 {
 }
 
 .btn-box a.chat-btn.chats {
-	padding: 10px 30px;
-	border: solid 1px #fff;
-	border-radius: 9px;
-	font-size: 16px;
-	color: #fff;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    background: #46a9a5;
+    padding: 10px 30px;
+    border-radius: 9px;
+    font-size: 16px;
+    color: #fff;
 }
 
 .btn-box a.nu-btn {
@@ -525,9 +528,10 @@ section.choose-sectoion:before {
     height: initial !important;
 }
 .choose-tetx h4 {
+    padding: 14px;
 	font-size: 18px;
 	font-weight: 600;
-	color: #333333;
+	color: #318380;
 	margin: 15px 0 15px 0;
 }
 
@@ -543,7 +547,7 @@ section.choose-sectoion:before {
 
 .choose-tetx {
 	/* padding: 30px 20px; */
-	border-radius: 25px;
+	border-radius: 13px;
 	background: #f4f4ff;
 	margin-top: 40px;
 	cursor: pointer;
@@ -554,7 +558,8 @@ section.choose-sectoion:before {
 	/* margin-top: 85px; */
 }
 
-.choose-slider .imagess img,.choose-slider-2 .imagess img{width:100%;border-radius: 0 22px 22px 22px;}
+.choose-slider .imagess img,.choose-slider-2 .imagess img{width:100%;    border-radius: 0 5px 5px 5px;
+}
 .choose-slider .slick-list.draggable {
 	padding: 20px 0;
 }
@@ -667,10 +672,10 @@ section.work-section {
     transform: translateY(-15px);
 }
 .work-img-box img {
-	width: 200px;
-	height: 200px;
-	object-fit: cover;
-	border-radius: 50%;
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 3%;
 }
 
 .work-main h4 {
@@ -736,7 +741,7 @@ section.faq-section .text-box p {
 }
 
 .panel-heading a {
-	color: #313131;
+	color: #fff;
 	font-weight: 500;
 	font-size: 18px;
 	margin: 0;
@@ -770,7 +775,7 @@ section.faq-section .text-box p {
 
 .panel-default .panel-heading {
 	    margin-bottom: 30px;
-    background: #fff;
+    background: #46a9a5;
     box-shadow: 10px 10px 30px rgb(0 0 0 / 8%);
     border: 0;
     padding: 23px 40px;
@@ -1176,6 +1181,7 @@ background-size: cover;
 background-position: center;
 display: flex;
 align-items: center;
+background-attachment: fixed;
 }
 
 section.service-ecommerce-marketing-section .row {
@@ -1192,7 +1198,7 @@ margin: 20px 0 0 -25px;
 section.service-ecommerce-marketing-section .text-box h2 {
 font-size: 32px;
 text-align: start;
-color: #fff;
+color: #46a9a5;
 }
 
 section.service-ecommerce-marketing-section .text-box p {
@@ -1334,7 +1340,7 @@ justify-content: center;
     width: 100%;
     height: 100%;
     background-image: -webkit-gradient(linear, left top, right top, from(#ffa203), to(#ff5e29));
-    background-image: linear-gradient(to right, #ffa203, #ff5e29);
+    background-image: linear-gradient(to right, rgb(47 126 123) 0,rgb(70 169 165));
     /* z-index: -1; */
     -webkit-animation: border-transform 10s linear infinite alternate forwards;
     animation: border-transform 10s linear infinite alternate forwards;
@@ -1415,6 +1421,7 @@ section.offre-section .text-box h2 {margin: 0 0 40px 0;}
 .banner-service-eco-store-img-box {margin: 60px 0 0 30px;}
 
 .choose-stor .choose-tetx p {
+    padding: 0px 16px;
     height: 100px;
     overflow-x: hidden;
     overflow-y: auto;
@@ -1463,12 +1470,13 @@ a.nu-btn span {font-size: 15px;font-weight: 400;}
 /*section.contact-pagr*/
 
 section.contact-section {
+    background-attachment: fixed;
     padding: 50px 0px;
     background-image: url(../images/ser-campaign.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 740px;
+    height: 400px;
 }
 .contact-banner-before-box {
    position: relative;
@@ -1926,6 +1934,7 @@ section.about-offer-section .btn-box a.nu-btn {
     margin: 0 0 0 5px;
 }
 section.accomplishments-section {
+    background-attachment: fixed;
     padding: 50px 0px;
     background-image: url(../images/accomple-bg.png);
     background-repeat: no-repeat;
@@ -2096,6 +2105,7 @@ section.our-timline-section .col-sm-3 {
 /*section.service-banner-campaign-sec*/
 
 section.service-banner-campaign-sec {
+    background-attachment: fixed;
     padding: 50px 0px;
     background-image: url(../images/ser-campaign.jpg);
     background-repeat: no-repeat;
@@ -2890,17 +2900,17 @@ section.terms-txt-st {
 }
 
 .single-progress .progress {
-    height: 10px;
+    height: 20px;
     background: rgba(54,97,252,.15);
     overflow: unset
 }
 
 .single-progress .progress-bar {
     background: #46a9a5;
-    height: 4px;
+    height: 13px;
     margin-top: 3px;
     margin-left: 2px;
-    border-radius: 500px;
+    border-radius: 5px;
     overflow: unset
 }
 
@@ -2919,6 +2929,7 @@ section.terms-txt-st {
     justify-content: space-between!important;
 }
 .promo-text-area {
+    background-attachment: fixed;
     position: relative;
     z-index: 12;
     padding: 80px 0;
@@ -3011,7 +3022,7 @@ font-size: 18px;padding: 18px 20px 16px;border-right: 1px solid #ded9d9;vertical
 .inner-promo-txt {
     max-width: 1196px;
     margin: auto;
-    background: #46a9a5;
+    background: #fff;
     border-radius: 50px;
     padding: 75px 80px
 }
@@ -3031,11 +3042,11 @@ font-size: 18px;padding: 18px 20px 16px;border-right: 1px solid #ded9d9;vertical
 .inner-promo-txt .sec-title .tag1{
     font-size: 46px;
     line-height: 56px;
-	color:#fff;
+	color:#46a9a5;
 }.inner-promo-txt .sec-title h3{
     font-size: 26px;
     line-height: 26px;
-	color:#fff;
+	color:#46a9a5;
 }
 .btn-area .btn {
     padding: 10px 30px;
