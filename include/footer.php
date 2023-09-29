@@ -3,7 +3,7 @@
 <div class="row ourspcbt-footer">
 <div class="col-sm-4">
 <div class="footerbox-details footer-box-1">
-<img src="images/png-replace.png">
+<img src="images/png-replace-footer.png">
 <div class="footer-text">
 <p>Amazon Publication Experts is a well-known Amazon Consultation business in the USA that offers reliable eCommerce solutions to increase brand recognition and profitability. </p>
 </div>
