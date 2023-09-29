@@ -26,11 +26,11 @@
 <div class="row">
 <div class="col-sm-12">
 <div class="trm-txt">
-<p>This website is hosted by the company Amazon Publication Experts and the company is committed to protecting the privacy of their clients. This statement is meant to summarize the uses of the information collected by Amazon Publication Experts, during or after the visit to this website by our clients or visitors.</p>
-<h3>Data Policy Followed at Amazon Publication Experts</h3>
-<p>This data policy prescribes the kind of information collected by Amazon Publication Experts and the way the information is used to enrich the user experience and to cater better services to our clients.</p>
+<p>This website is hosted by the company AMZ Publication Experts and the company is committed to protecting the privacy of their clients. This statement is meant to summarize the uses of the information collected by AMZ Publication Experts, during or after the visit to this website by our clients or visitors.</p>
+<h3>Data Policy Followed at AMZ Publication Experts</h3>
+<p>This data policy prescribes the kind of information collected by AMZ Publication Experts and the way the information is used to enrich the user experience and to cater better services to our clients.</p>
 <h3>The Information We Collect:</h3>
-<p>Amazon Publication Experts collects only that information that is vital for the further processing and implementation of the development process of a project. This information includes client’s name, email address, client’s project requirements details, IP address, location, and the contact number.</p>
+<p>AMZ Publication Experts collects only that information that is vital for the further processing and implementation of the development process of a project. This information includes client’s name, email address, client’s project requirements details, IP address, location, and the contact number.</p>
 <h3>Use of the information collected by us:</h3>
 <p>The use of the information collected is strictly for the purpose of communication, interaction and for the better user experience of our clients based on the requirements of their projects.</p>
 <h3>Sharing of the Information Collected:</h3>
@@ -48,7 +48,7 @@ We never share or sell the information our clients collected by us for the proje
 <h3>Terms and Conditions</h3>
 <p>Please visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website.</p>
 <p><b>Contact Amazon Publication Experts in case you have any query:</b></p>
-<a href="mailto:info@amazonpublicationexperts.com">Email us at <b>info@amazonpublicationexperts.com</b></a>
+<a href="mailto:info@amzpublicationexperts.com">Email us<br> at info@amzpublicationexperts.com</b></a>
 </div>
 </div>
 </div>

@@ -4,10 +4,10 @@
 <section class="contact-section">
 <div class="container">
 <div class="row">
-<div class="col-sm-5">
+<div class="col-sm-12">
 <div class="text-box ">
-<h2 class="wow fadeInUp" data-wow-duration="2s">We Have Got the Key To Unlock Your eCommerce Success. Contact Us Now!</h2>
-<p class="wow fadeInUp" data-wow-duration="2s">Are you seeking the best Amazon and eCommerce services? You have come to the right spot. If you want to hire our services or have any queries, feel free to speak to one of our knowledgeable experts right now.</p>
+<h2 class="wow fadeInUp" data-wow-duration="2s">Unlock Ecommerce Success with Us</h2>
+<p class="wow fadeInUp" data-wow-duration="2s">Are you in search of top-tier Amazon and eCommerce solutions? You're in the right place; don't look anywhere else. Whether you're ready to enlist our services or simply have questions, don't hesitate to reach out to our experienced experts right away.</p>
 </div>
 <div class="btn-box wow fadeInUp" data-wow-duration="3s">
 <a href="javascript:;" class="get-btn popup-btn">Get a Quote</a>
@@ -15,11 +15,11 @@
 
 </div>
 </div>
-<div class="col-sm-7 contact-banner-before-box">
+<!-- <div class="col-sm-7 contact-banner-before-box">
 <div class="banner-cont-img-box wow zoomIn" data-wow-duration="3s">
 <img src="images/banner-contact-img-gril.png">
 </div>
-</div>
+</div> -->
 </div>
 </div>
 </section>
@@ -58,15 +58,15 @@
 <div class="row">
 <div class="col-sm-12">
 <div class="text-box ">
-<h2 class="wow fadeInUp" data-wow-duration="2s">Why Use Our Amazon Accoun Management <br> Services?</h2>
-<p class="wow fadeInUp" data-wow-duration="3s">With more than 20 years of experience, we’ve maintained an impressive track record of increasing client revenues. Combined with our award-winning and data-driven strategies, we’ve become the trusted choice for Amazon account management services.</p>
+<h2 class="wow fadeInUp" data-wow-duration="2s">Why Utilize Our Amazon Services? ?</h2>
+<p class="wow fadeInUp" data-wow-duration="3s">With over two decades of expertise, we've consistently delivered exceptional results, driving substantial revenue growth for our clients. Our acclaimed, data-backed strategies have solidified our reputation as the premier provider of Amazon account management services.</p>
 </div>
 <div class="counter-main-box">
 <ul>
 <li>
 <div class="counter-boxx wow fadeInUp" data-wow-duration="1s">
 <h2><span class="count">50</span>+</h2>
-<p>Dedicated Amazon <br>Marketing Experts</p>
+<p>Devoted Amazon <br>Marketing Specialists</p>
 </div>
 </li>
 <li>
@@ -78,7 +78,7 @@
 <li>
 <div class="counter-boxx wow fadeInUp" data-wow-duration="3s">
 <h2><span class="count">100</span>%</h2>
-<p>Client <br>Satisfaction Rate</p>
+<p>Client <br>Satisfaction</p>
 </div>
 </li>
 <li>

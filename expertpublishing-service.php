@@ -25,6 +25,39 @@
 
 <section class="choose-sectoion choose-stor">
 <div class="container-fluid">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div class="row">
 <div class="col-sm-12">
 <div class="text-box platform-text-box">

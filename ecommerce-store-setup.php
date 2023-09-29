@@ -5,17 +5,17 @@
 <div class="row">
 <div class="col-sm-6">
 <div class="text-box text-color-box">
-<h2 class="wow fadeInUp" data-wow-duration="2s">Create An Ecommerce Store And Start Selling</h2>
-<p class="wow fadeInUp" data-wow-duration="3s">Do you want to sell products online using the biggest eCommerce platform in the world? We have your back. By creating a fantastic online store for you, Amazon Publication Experts will assist you in developing a strong presence on Amazon.</p>
+<h2 class="wow fadeInUp" data-wow-duration="2s">Launch Your Online Store To Increase Sales</h2>
+<p class="wow fadeInUp" data-wow-duration="3s">Dreaming of becoming a successful online seller on the world's largest eCommerce platform? Look no further. AMZ Publication Experts are here to guide you in establishing an impressive online store, helping you carve out a prominent space on Amazon. Our Ecommerce Store Setup Services Include:</p>
 </div>
 <div class="banner-ul-box">
 <ul class="wow fadeInUp" data-wow-duration="4s">
-<li><i class="fa fa-check" aria-hidden="true"></i><p>Setting up and Managing Amazon FBA</p></li>
-<li><i class="fa fa-check" aria-hidden="true"></i><p>Customizing the storefront</p></li>
-<li><i class="fa fa-check" aria-hidden="true"></i><p>24 Hour Shop Setup Support</p></li>
-<li><i class="fa fa-check" aria-hidden="true"></i><p>Management of Stores</p></li>
-<li><i class="fa fa-check" aria-hidden="true"></i><p>Product listing optimization</p></li>
-<li><i class="fa fa-check" aria-hidden="true"></i><p>Amazon Analytics</p></li>
+<li><i class="fa fa-check" aria-hidden="true"></i><p> Setting up and Managing Amazon FBA</p></li>
+<li><i class="fa fa-check" aria-hidden="true"></i><p> Customizing the storefront</p></li>
+<li><i class="fa fa-check" aria-hidden="true"></i><p> 24/7 Shop Setup Assistance </p></li>
+<li><i class="fa fa-check" aria-hidden="true"></i><p> Expert Store Management </p></li>
+<li><i class="fa fa-check" aria-hidden="true"></i><p> Product Listing Optimization</p></li>
+<li><i class="fa fa-check" aria-hidden="true"></i><p> Amazon Analytics</p></li>
 </ul>
 </div>
 <div class="btn-box wow fadeInUp" data-wow-duration="5s">
@@ -40,8 +40,8 @@
 <div class="row">
 <div class="col-sm-12">
 <div class="text-box platform-text-box">
-<h2 class="wow fadeInUp" data-wow-duration="2s">Why Do You Choose Amazon Publication Experts?</h2>
-<p class="wow fadeInUp" data-wow-duration="3s">The following are just a few of the many ways we stand out from other Amazon service providers in a market dominated with hundreds of businesses and independent contractors.</p>
+<h2 class="wow fadeInUp" data-wow-duration="2s">Why Choose AMZ Publication Experts?</h2>
+<p class="wow fadeInUp" data-wow-duration="3s">In a competitive market flooded with countless Amazon service providers, AMZ Publication Experts shine with a multitude of differentiators that set us apart. We should be your first choice for the following reasons:</p>
 </div>
 </div>
 <div class="col-sm-12">
@@ -55,8 +55,8 @@
 <img src="images/src6.png" alt="">
 </div>
 <div class="cont">
-<h4>Experienced Professionals Team</h4>
-<p>We have a team of experts with original concepts and imaginative brains, and each member of the team works hard to develop a custom plan for your company.</p>
+<h4>Experienced Team of Professionals</h4>
+<p>Our team comprises seasoned experts with innovative minds, each dedicated to crafting a tailor-made plan for your business.</p>
 </div>
 </div>
 </div>
@@ -69,8 +69,8 @@
 <img src="images/src7.png" alt="">
 </div>
 <div class="cont">
-<h4>Years of Experience</h4>
-<p>Since the creation of Amazon, we have been increasingly knowledgeable about the platform and strategies to support the growth of online businesses in the digital sphere. We have years of experience in this field!</p>
+<h4>Years of Proven Experience</h4>
+<p>With our journey closely aligned with Amazon's growth, we boast extensive knowledge of the platform and effective strategies that drive digital business expansion. </p>
 </div>
 </div>
 </div>
@@ -83,8 +83,8 @@
 <img src="images/src8.png" alt="">
 </div>
 <div class="cont">
-<h4>Customer-Focused Strategy</h4>
-<p>You want to sell your goods to customers, thus your marketing techniques must be customer-focused. We will make sure that the target market is considered when planning the strategy.</p>
+<h4>Customer-Centric Approach</h4>
+<p>Selling to customers requires customer-centric marketing strategies. We ensure that your target audience is at the forefront of our strategic planning.</p>
 </div>
 </div>
 </div>
@@ -97,8 +97,8 @@
 <img src="images/src9.png" alt="">
 </div>
 <div class="cont">
-<h4>Cost Effectiveness</h4>
-<p>Each Amazon service plan is carefully chosen with quality and value as the top considerations. We offer the best standard services at the most affordable costs.</p>
+<h4>Cost-Effective Solutions</h4>
+<p>Quality and value are at the heart of every Amazon service plan we offer. We offer excellent services at affordable rates.</p>
 </div>
 </div>
 </div>
@@ -111,8 +111,8 @@
 <img src="images/src10.png" alt="">
 </div>
 <div class="cont">
-<h4>Latest Tools</h4>
-<p>We only use cutting-edge tools and employ custom tactics to offer our clients Amazon solutions of the highest class. When you work with us, you get access to the best resources and knowledge.</p>
+<h4>Cutting-Edge Tools</h4>
+<p>Armed with cutting-edge tools and innovative tactics, we deliver premier Amazon solutions. When you partner with us, you gain access to the industry's best resources and expertise.</p>
 </div>
 </div>
 </div>
@@ -140,8 +140,8 @@
 <div class="row">
 <div class="col-sm-12">
 <div class="text-box ser-color-box">
-<h2 class="wow fadeInUp" data-wow-duration="2s">How The Creation Of Digital eCommerce Shop Can Help Your Company Succeed</h2>
-<p class="wow fadeInUp" data-wow-duration="3s">To assist businesses in flourishing online, Amazon Publication Experts provides comprehensive Amazon online eCommerce store services.</p>
+<h2 class="wow fadeInUp" data-wow-duration="2s">How Establishing a Digital Ecommerce Store Can Propel Your Business to Success</h2>
+<p class="wow fadeInUp" data-wow-duration="3s">AMZ Publication Experts is your trusted partner in helping businesses thrive in the online sphere, offering comprehensive Amazon eCommerce store setup services that empower your growth.</p>
 </div>
 <div class="tabs-business">
 <ul class="nav nav-tabs business wow fadeInUp" data-wow-duration="4s">
@@ -322,8 +322,8 @@
 <div class="row">
 <div class="col-sm-12">
 <div class="text-box">
-<h2 class="wow fadeInUp" data-wow-duration="2s">Why Do People Choose Amazon Publication Experts?</h2>
-<p class="wow fadeInUp" data-wow-duration="3s">The following are just a few of the many ways we stand out from other Amazon service providers in a market flooded with hundreds of businesses and contract workers.</p>
+<h2 class="wow fadeInUp" data-wow-duration="2s">AMZ Publication Experts Store Setup Services</h2>
+<p class="wow fadeInUp" data-wow-duration="3s">Discover a world of possibilities with our comprehensive ecommerce store setup solutions, including:</p>
 </div>
 </div>
 <div class="col-sm-6 ">
@@ -335,8 +335,8 @@
 <img src="images/ser-devp-img-1.png">
 </div>
 <div class="ser-devp-text">
-<h4 class="wow fadeInUp" data-wow-duration="2s">Team of Skilled Experts</h4>
-<p class="wow fadeInUp" data-wow-duration="3s">We have a group of experts on staff that each bring fresh perspectives and imaginative ideas to the task of developing a custom plan for your company..</p>
+<h4 class="wow fadeInUp" data-wow-duration="2s">Tailored Ecommerce Platforms</h4>
+<p class="wow fadeInUp" data-wow-duration="3s">We craft custom ecommerce solutions that align with your brand and products...</p>
 </div>
 </div>
 </div>
@@ -348,8 +348,8 @@
 <img src="images/ecommerce-store-setup/ser-devp-img-2.png">
 </div>
 <div class="ser-devp-text">
-<h4>Experience Level</h4>
-<p>Since the creation of Amazon, we have become increasingly knowledgeable about the platform and techniques to promote the growth of online enterprises. We have years of experience in this field.</p>
+<h4>User-Friendly Design</h4>
+<p>Our designs prioritize user experience, making it easy for your customers to navigate and shop.</p>
 </div>
 </div>
 </div>
@@ -361,8 +361,8 @@
 <img src="images/ecommerce-store-setup/ser-devp-img-3.png">
 </div>
 <div class="ser-devp-text">
- <h4>Innovative Tools</h4>
-<p>We only use cutting-edge tools and utilize custom tactics to offer our clients Amazon solutions of the highest class. When you work with us, you get access to the best resources and knowledge.</p>
+ <h4>Secure Payment Integration</h4>
+<p>We ensure your store is equipped with secure payment gateways to protect both you and your customers..</p>
 </div>
 </div>
 </div>
@@ -374,8 +374,8 @@
 <img src="images/ecommerce-store-setup/ser-devp-img-4.png">
 </div>
 <div class="ser-devp-text">
-<h4>Client-Centered Approaches</h4>
-<p>You want to sell your goods to customers, thus your marketing techniques must be customer-focused. We will make sure that the target market is considered when planning the strategy.
+<h4>Efficient Inventory Management</h4>
+<p>Streamline your operations with efficient inventory tracking and management tools.
 </p>
 </div>
 </div>
@@ -388,8 +388,8 @@
 <img src="images/ecommerce-store-setup/ser-devp-img-5.png">
 </div>
 <div class="ser-devp-text">
-<h4>Cost Effectiveness</h4>
-<p>Each Amazon service plan is carefully chosen with quality and value as the top considerations. We offer the best standard services at the most affordable costs.</p>
+<h4>Seamless Mobile Responsiveness</h4>
+<p>Your store will look and function flawlessly across all devices, boosting your reach.</p>
 </div>
 </div>
 </div>
@@ -412,12 +412,12 @@
 <div class="col-sm-6">
 <div class="tabs-development">
 <ul class="nav nav-tabs development wow fadeInRight" data-wow-duration="2s">
-<li class="active"><a data-toggle="tab" href="#development1"> .01 Team of Seasoned Professionals</a></li>
-<li class="development-li2"><a data-toggle="tab" href="#development2">.02 Client-Centric Strategies</a></li>
-<li class="development-li3"><a data-toggle="tab" href="#development3">.03 Cost-Effectiveness</a></li>
+<li class="active"><a data-toggle="tab" href="#development1"> 1.	Tailored Ecommerce Platforms</a></li>
+<li class="development-li2"><a data-toggle="tab" href="#development2">2.User-Friendly Design</a></li>
+<li class="development-li3"><a data-toggle="tab" href="#development3">3.	Secure Payment Integration</a></li>
 <li class="development-li4"><a data-toggle="tab" href="#development4">.04 Years of Experience</a></li>
 <li class="development-li5"><a data-toggle="tab" href="#development5">.05 Cutting-Edge Tools</a></li>
-<li class="development-li6"><a data-toggle="tab" href="#development5">.06 Bespoke Strategies</a></li>
+<li class="development-li6"><a data-toggle="tab" href="#development5">.06 Seamless Mobile Responsiveness</a></li>
 </ul>
 </div>
 </div>

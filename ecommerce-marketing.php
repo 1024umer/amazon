@@ -4,19 +4,18 @@
 <section class="service-ecommerce-marketing-section">
 <div class="container">
 <div class="row">
-<div class="col-sm-6">
+<div class="col-sm-12">
 <div class="text-box text-color-box">
-<h2 class="wow fadeInUp" data-wow-duration="2s">Reputable E-Commerce Marketing Firm</h2>
-<p class="wow fadeInUp" data-wow-duration="3s">To increase traffic and conversions for your online business, use eCommerce marketing services.</p>
+<h2 class="wow fadeInUp" data-wow-duration="2s">Trusted E-Commerce Marketing Partner</h2>
+<p class="wow fadeInUp" data-wow-duration="3s">Elevate your online business with our results-driven eCommerce marketing services, designed to boost traffic and drive conversions.</p>
 </div>
 <div class="banner-ul-box">
 <ul class="wow fadeInUp" data-wow-duration="4s">
-<li><i class="fa fa-check" aria-hidden="true"></i><p>90+ experts in ecommerce marketing.</p></li>
-<li><i class="fa fa-check" aria-hidden="true"></i><p>All work was done domestically in the USA.</p></li>
-<li><i class="fa fa-check" aria-hidden="true"></i><p>Tested ecommerce tactics.</p></li>
-<li><i class="fa fa-check" aria-hidden="true"></i><p>Launches of 500+ ecommerce websites.</p></li>
-<li><i class="fa fa-check" aria-hidden="true"></i><p>Google Page #1 rankings for 2M+ delivered.</p></li>
-<li><i class="fa fa-check" aria-hidden="true"></i><p>10 years running an ecommerce business</p></li>
+<li><i class="fa fa-check" aria-hidden="true"></i><p>990+ E-commerce Marketing Experts</p></li>
+<li><i class="fa fa-check" aria-hidden="true"></i><p>Proven E-commerce Tactics</p></li>
+<li><i class="fa fa-check" aria-hidden="true"></i><p>500+ Successful E-commerce Website Launches</p></li>
+<li><i class="fa fa-check" aria-hidden="true"></i><p>Achieving Google Page #1 Rankings</p></li>
+<li><i class="fa fa-check" aria-hidden="true"></i><p>A Decade of E-commerce Excellence</p></li>
 </ul>
 </div>
 <div class="btn-box wow fadeInUp" data-wow-duration="4s" 5>
@@ -25,12 +24,12 @@
 <a href="tel:(888) 918-0661" class="nu-btn "> (888) 918-0661 </a>
 </div>
 </div>
-<div class="col-sm-1"></div>
+<!-- <div class="col-sm-1"></div>
 <div class="col-sm-6 service-banner-before-box">
 <div class="banner-service-eco-img-box wow zoomIn" data-wow-duration="3s">
 <img src="images/service-banner-ecomerce.png">
 </div>
-</div>
+</div> -->
 </div>
 </div>
 </section>
@@ -40,8 +39,8 @@
 <div class="row">
 <div class="col-sm-12">
 <div class="text-box platform-text-box">
-<h2 class="wow fadeInUp" data-wow-duration="2s">Services For Ecommerce Marketing</h2>
-<p class="wow fadeInUp" data-wow-duration="3s">Amazon Publication Experts offer content creation and promotion, social media marketing and advertising, PPC management, remarketing, and other eCommerce marketing services. Take advantage of them to increase your lead generation, sales volume, and Amazon awareness.</p>
+<h2 class="wow fadeInUp" data-wow-duration="2s">Elevate Your E-commerce Marketing Game with Our Services</h2>
+<p class="wow fadeInUp" data-wow-duration="3s">At AMZ Publication Experts, we offer a comprehensive suite of E-commerce marketing services designed to supercharge your online presence and drive tangible results:</p>
 </div>
 </div>
 <div class="col-sm-12">
@@ -55,8 +54,8 @@
 <img src="images/src12.png" alt="">
 </div>
 <div class="cont">
-<h4>Web Development For E-Commerce</h4>
-<p>The website design and development services provided by Amazon Publication help increase leads and customers. In order to promote the brand online, we also focus on eCommerce business strategies and development solutions. In addition, we oversee both B2B and B2C eCommerce enterprises.</p>
+<h4>Content Creation and Promotion</h4>
+<p>Engage your audience with compelling content, harnessing the power of social media marketing, advertising, PPC management, remarketing, and more to boost lead generation, sales volume, and Amazon visibility.</p>
 </div>
 </div>
 </div>
@@ -69,8 +68,8 @@
 <img src="images/src13.png" alt="">
 </div>
 <div class="cont">
-<h4>Optimization Of Conversion Rates</h4>
-<p>It's fantastic to have more visitors to your website, but what good are they if they don't aid in your goal-achieving? To improve your conversion rate, use behavioral analysis, AB testing, heat mapping, video recordings, and other analytical methods. Amazon Publication are exceptional at quickly increasing your web store's sales and optimizing it.</p>
+<h4>E-commerce Web Development</h4>
+<p>Our web design and development services are geared towards increasing leads and customers, with a focus on eCommerce business strategies and development solutions. We cater to both B2B and B2C eCommerce enterprises.</p>
 </div>
 </div>
 </div>
@@ -83,8 +82,8 @@
 <img src="images/src14.png" alt="">
 </div>
 <div class="cont">
-<h4>SEO For Ecommerce</h4>
-<p>We provide some of the best SEO marketing services for online stores. Keyword analysis, technical SEO, email marketing automation, Amazon marketing, etc. are all included. A reputable eCommerce SEO company for companies throughout the world is Amazon Publication. Our professionals are knowledgeable about the workings of Woo Commerce, Big Commerce, Shopify, and other platforms used in the eCommerce industry.</p>
+<h4>Conversion Rate Optimization</h4>
+<p>More website visitors are great, but it's essential that they contribute to your goals. Elevate your conversion rate with in-depth behavioral analysis, AB testing, heat mapping, video recordings, and analytical techniques that AMZ Publication Experts excel in. Witness a rapid surge in sales and optimization of your web store.</p>
 </div>
 </div>
 </div>
@@ -97,8 +96,8 @@
 <img src="images/src15.png" alt="">
 </div>
 <div class="cont">
-<h4>Paid Search for Ecommerce</h4>
-<p>Businesses can use this marketing tool to advertise on a partner site every time their ad is clicked or when it is displayed within the listings. Quick results are one of the main advantages of paid search. Amazon Publication marketers are excellent at employing this method; they can produce more leads, offer lasting results, and raise brand visibility online.</p>
+<h4>E-commerce SEO</h4>
+<p>Our top-tier SEO marketing services are tailored for online stores. From meticulous keyword analysis to technical SEO, email marketing automation, and Amazon marketing, we cover it all. As a renowned eCommerce SEO company serving global businesses, AMZ Publication Experts are well-versed in platforms like Woo Commerce, Big Commerce, Shopify, and more, commonly used in the eCommerce landscape.</p>
 </div>
 </div>
 </div>
@@ -112,9 +111,9 @@
 <div class="row">
 <div class="col-sm-12">
 <div class="text-box ser-color-box">
-<h2 class="wow fadeInUp" data-wow-duration="2s">How to Grow Your Company with<br>Our eCommerce Marketing?
+<h2 class="wow fadeInUp" data-wow-duration="2s">Unlock Business Growth <br>with Our eCommerce Marketing Expertise
 </h2>
-<p class="wow fadeInUp" data-wow-duration="3s">You may either manage the task yourself or engage a business like Amazon Publication when it comes to eCommerce marketing.</p>
+<p class="wow fadeInUp" data-wow-duration="3s">You can choose to go it alone when it comes to eCommerce marketing, or you can work with an established expert like AMZ Publication Experts. Here's how our knowledge can advance your business:</p>
 </div>
 <div class="tabs-business">
 <ul class="nav nav-tabs business wow fadeInUp" data-wow-duration="4s">
@@ -148,8 +147,8 @@
 </div>
 <div class="col-sm-6 p0">
 <div class="ser-bus-text">
-<h4 class="wow fadeInUp" data-wow-duration="2s">Reduce Time</h4>
-<p class="wow fadeInUp" data-wow-duration="3s">One of the main advantages of eCommerce is that it saves time. Everything is available for purchase online, including clothing, smartphones, computer accessories, and much more. Online purchasing also helps to cut costs, especially when it comes to travel charges.</p>
+<h4 class="wow fadeInUp" data-wow-duration="2s">Time Savings</h4>
+<p class="wow fadeInUp" data-wow-duration="3s">Ecommerce is a time-saver. It offers the convenience of shopping for everything online, from clothing to smartphones and computer accessories. Online purchases can also lead to cost savings, particularly when it comes to reducing travel expenses.</p>
 </div>
 <div class="btn-box wow fadeInUp" data-wow-duration="4s">
 <a href="javascript:;" class="get-btn popup-btn">Get a Quote</a>
@@ -170,8 +169,8 @@
 </div>
 <div class="col-sm-6 p0">
 <div class="ser-bus-text">
-<h4>Boost Website Traffic</h4>
-<p>It seems sense that the majority of eCommerce marketing strategies focus on increasing the number of visits. An increase in traffic helps to improve your consumer base, increase sales, and strengthen your brand's reputation.</p>
+<h4>Increased Website Traffic</h4>
+<p>Ecommerce marketing strategies predominantly revolve around one key metric - boosting website traffic. More visitors translate to a broader consumer base, enhanced sales figures, and a fortified brand reputation.</p>
 </div>
 <div class="btn-box">
 <a href="javascript:;" class="get-btn popup-btn">Get a Quote</a>
@@ -192,8 +191,8 @@
 </div>
 <div class="col-sm-6 p0">
 <div class="ser-bus-text">
-<h4>Industry-Specific Knowledge</h4>
-<p>Durability, lower costs, and adaptable and flexible solutions are all examples of industry-specific expertise. Other processes, such error-free billing and on-time shipping deliveries, are likewise industry-specific. The extensive experience of Amazon Publication in problem-solving and solution-finding is available.</p>
+<h4>Industry-Specific Insights</h4>
+<p>Our expertise extends to industry-specific knowledge, offering solutions that are durable, cost-effective, adaptable, and flexible. This includes error-free billing and on-time shipping deliveries. AMZ Publication Experts bring extensive problem-solving skills and solution-finding experience to the table.</p>
 </div>
 <div class="btn-box">
 <a href="javascript:;" class="get-btn popup-btn">Get a Quote</a>
@@ -214,8 +213,8 @@
 </div>
 <div class="col-sm-6 p0">
 <div class="ser-bus-text">
-<h4>Making Use Of Marketing Channels</h4>
-<p>Many marketing channels combine several platforms to broaden the frequency and audience of your campaign while generating more innovative and effective content. Email, social media, display ads, television, and more are examples of channels. We make sure that the appropriate combinations are chosen for clients in order to create marketing campaigns that are profitable and increase sales.</p>
+<h4>Leveraging Marketing Channels</h4>
+<p>Effective eCommerce marketing often requires harnessing various marketing channels to expand the reach and impact of your campaigns. These channels encompass email, social media, display ads, television, and more. We ensure that the right mix is selected to craft profitable campaigns that drive sales.</p>
 </div>
 <div class="btn-box">
 <a href="javascript:;" class="get-btn popup-btn">Get a Quote</a>
@@ -236,8 +235,8 @@
 </div>
 <div class="col-sm-6 p0">
 <div class="ser-bus-text">
-<h4>Performance Measurement</h4>
-<p>Amazon Publication Experts eCommerce marketing team makes sure that it is simpler to track campaign results than it is with traditional marketing. We make sure that you can use a variety of tools to review, assess, and monitor the effectiveness of your strategy. You can also examine CTRs, PPCs, page views, bounce rates, and other metrics.
+<h4>Performance Analytics</h4>
+<p>Monitoring campaign performance is simpler in eCommerce marketing compared to traditional methods. We equip you with a range of tools to review, evaluate, and track the effectiveness of your strategy. Key metrics like CTRs, PPCs, page views, bounce rates, and others are at your fingertips.
 </p>
 </div>
 <div class="btn-box">
@@ -259,8 +258,8 @@
 <div class="row">
 <div class="col-sm-12">
 <div class="text-box">
-<h2 class="wow fadeInUp" data-wow-duration="2s">What Makes Us Special?</h2>
-<p class="wow fadeInUp" data-wow-duration="3s">For small to mid-sized e-commerce firms, Amazon Publication is a solid choice. Our e-commerce marketing services are utilized by businesses for a variety of reasons. Among them are:</p>
+<h2 class="wow fadeInUp" data-wow-duration="2s">What Sets Us Apart?</h2>
+<p class="wow fadeInUp" data-wow-duration="3s">AMZ Publication Experts stands as the preferred choice for small and mid-sized e-commerce enterprises seeking impactful marketing services. Our services are sought after by businesses for a multitude of compelling reasons, including:</p>
 </div>
 </div>
 <div class="col-sm-6 ">
@@ -272,8 +271,8 @@
 <img src="images/ecommerce-marketing/ser-devp-img-1.png">
 </div>
 <div class="ser-devp-text">
-<h4 class="wow fadeInUp" data-wow-duration="2s">Customer Satisfaction</h4>
-<p class="wow fadeInUp" data-wow-duration="3s">One of the most difficult tasks that eCommerce companies must tackle is keeping customers happy. Their decisions may have an immediate impact on your sales and brand recognition.
+<h4 class="wow fadeInUp" data-wow-duration="2s">Consistent Excellence</h4>
+<p class="wow fadeInUp" data-wow-duration="3s">A feature-rich online store with a keen market focus can consistently deliver dominant results. Contact AMZ Publication Experts to swiftly establish a high-performing web store that consistently excels.
 </p>
 </div>
 </div>
@@ -286,8 +285,8 @@
 <img src="images/ecommerce-marketing/ser-devp-img-2.png">
 </div>
 <div class="ser-devp-text">
-<h4>Consistent Outcomes</h4>
-<p>A web store with lots of features and a focus on the market can deliver reliable, dominant outcomes. Make contact with Amazon Publication Experts to quickly create a successful web store.</p>
+<h4>Client-First Philosophy</h4>
+<p>Prioritizing customers is pivotal for achieving higher success rates and sales. AMZ Publication Experts offer ample opportunities for clients to amplify their brand message and engage with their customer base.</p>
 </div>
 </div>
 </div>
@@ -299,8 +298,8 @@
 <img src="images/ecommerce-marketing/ser-devp-img-3.png">
 </div>
 <div class="ser-devp-text">
-<h4>Client First Focus</h4>
-<p>For higher success rates and sales, a web store that priorities customers is necessary. The business provides plenty of options for clients to spread their message, according to Amazon Publication Experts. </p>
+<h4>Customer-Centric Approach</h4>
+<p>In the realm of e-commerce, ensuring customer satisfaction is no small feat. Customer decisions can wield immediate influence over your sales and brand reputation. We specialize in strategies that keep your customers content.</p>
 </div>
 </div>
 </div>
@@ -312,8 +311,8 @@
 <img src="images/ecommerce-marketing/ser-devp-img-4.png">
 </div>
 <div class="ser-devp-text">
-<h4>Fair Pricing</h4>
-<p>You won't have to be concerned about last-minute fees or unforeseen charges while working with Amazon Publication Experts. The core of the store created by Amazon Publication Experts is fair pricing.</p>
+<h4>Transparent Pricing</h4>
+<p>When you collaborate with AMZ Publication Experts, you won't encounter any last-minute fees or unexpected charges. Our foundation is built upon fair and transparent pricing structures.</p>
 </div>
 </div>
 </div>
@@ -325,8 +324,8 @@
 <img src="images/ecommerce-marketing/ser-devp-img-5.png">
 </div>
 <div class="ser-devp-text">
-<h4>Data-Driven Approaches</h4>
-<p>A data-driven strategy uses eCommerce data to enhance brand communication and make critical business decisions. The needs, wants, and purchasing behaviors of clients are predicted by this data.</p>
+<h4>Data-Driven Strategies</h4>
+<p>Our approach is firmly rooted in data. We harness e-commerce data to elevate brand communication and make informed business decisions. This data empowers us to predict the needs, desires, and purchasing behaviors of your customers.</p>
 </div>
 </div>
 </div>
@@ -338,8 +337,8 @@
 <img src="images/ecommerce-marketing/ser-devp-img-6.png">
 </div>
 <div class="ser-devp-text">
-<h4>Industry-Leading Tech</h4>
-<p>Your firm can access market-leading technology by working with our eCommerce marketing agency. It offers solutions for lead monitoring, content personalization, and more in addition to AI.</p>
+<h4>Proven Track Record</h4>
+<p>With a history of successful e-commerce projects, AMZ Publication Experts have a track record that speaks for itself. Our portfolio showcases our ability to drive results and generate positive outcomes for our clients, making us a trusted choice for e-commerce marketing.</p>
 </div>
 </div>
 </div>
