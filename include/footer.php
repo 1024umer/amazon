@@ -52,8 +52,8 @@
 </div>
 <div class="contact-footer">
 <a href="tel:(888) 918-0661"> <i class="fa fa-volume-control-phone" aria-hidden="true"></i><span> 2816612440 </span> </a>
-<a href="mailto:sales@amazonpublicationexpert.com"><i class="fa fa-envelope" aria-hidden="true"></i> sales@amzpublicationexpert.com</a>
-<p><i class="fa fa-map-marker" aria-hidden="true"></i> <span>Crynotixsolllc  <br> 1224 Lake knoll dr lilburn GA 30047<span class="blockdiv"></span></span></p>
+<a href="mailto:sales@amazonpublicationexpert.com"><i class="fa fa-envelope" aria-hidden="true"></i> sales@amzpublicationexperts.com</a>
+<p><i class="fa fa-map-marker" aria-hidden="true"></i> <span> 1224 Lake knoll dr lilburn GA 30047<span class="blockdiv"></span></span></p>
 </div>
 </div>
 </div>
