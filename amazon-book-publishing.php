@@ -5,7 +5,7 @@
 <div class="row">
 <div class="col-sm-5">
 <div class="text-box-service with-box-ser">
-<h2 class="wow fadeInUp" data-wow-duration="2s">Amazon Publication Experts Publish Dreams</h2>
+<h2 class="wow fadeInUp" data-wow-duration="2s">Amz Publication Experts Publish Dreams</h2>
 <p class="wow fadeInUp" data-wow-duration="3s">The process of publishing an eBook is challenging. Utilize us to manage every step of your book publication. Our group will finalize and publish your novel as a book on Amazon.</p>
 </div>
 <div class="btn-box wow fadeInUp" data-wow-duration="3s">
@@ -90,7 +90,7 @@
 <h4 class="wow fadeInUp" data-wow-duration="2s">Book Publishing Services by Amazon Publication</h4>
 <h2 class="wow fadeInUp" data-wow-duration="3s">Free Of Hassle Book Publishing</h2>
 <p class="wow fadeInUp" data-wow-duration="4s">Clearly, it is difficult to publish an eBook. We can assist you with the task and support you in attaining the success you have always desired with the right direction and approach. We are the best choice if you want to self-publish an eBook quickly. As soon as we receive your content, our team starts modifying it to meet the requirements for eBook publication.<br><br>
-In contrast to traditional publishing, which initially restricts your manuscript's distribution to just one country, when you publish your book on Amazon with Amazon Publication Experts, you may swiftly increase the distribution of your work around the world.</p>
+In contrast to traditional publishing, which initially restricts your manuscript's distribution to just one country, when you publish your book on Amazon with Amz Publication Experts, you may swiftly increase the distribution of your work around the world.</p>
 </div>
 <div class="btn-box wow fadeInUp" data-wow-duration="3s">
 <a href="javascript:;" class="get-btn  popup-btn">Get a Quote</a>

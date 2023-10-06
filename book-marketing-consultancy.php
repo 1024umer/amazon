@@ -21,7 +21,7 @@ function reconstruct_url($url){
       <link rel="stylesheet" href="<?=$url?>/css/custom.css">
       <link rel="stylesheet" href="<?=$url?>/css/responsive.css">
       <title>Professional Book Promotion & Book Marketing Services.</title>
-      <meta name="Amazon Publication Experts offers a staggering discount on its book marketing service. Get help for book promotion, eBook marketing services. Hire a dedicated book marketer that too at an affordable price.">
+      <meta name="Amz Publication Experts offers a staggering discount on its book marketing service. Get help for book promotion, eBook marketing services. Hire a dedicated book marketer that too at an affordable price.">
       <script type="text/javascript">
   window._mfq = window._mfq || [];
   (function() {
@@ -176,7 +176,7 @@ We understand that the world of book marketing can be overwhelming, so we've cre
       </section>
       <section class="client-reviews sec-padding">
          <div class="container">
-            <h2 class="sec-heading" data-aos="fade-down">How Amazon Publication Experts Are Different From Others?</h2>
+            <h2 class="sec-heading" data-aos="fade-down">How Amz Publication Experts Are Different From Others?</h2>
             <p class="sec-para" data-aos="fade-up">We are dedicated to helping you achieve maximum success in book advertising and we will do everything in our potential to help you get there.</p>
             <div class="row books-main-slider">
                <div class="col-lg-3" data-aos="fade-down">
@@ -679,7 +679,7 @@ We understand that the world of book marketing can be overwhelming, so we've cre
                <div class="col-md-4" data-aos="fade-down">
                   <div class="testi-wrapper">
                      <img class="img-fluid testi-image" src="<?=$url?>/images/webp/testi-img2.webp" alt="">
-                     <p class="testi-content">The Amazon Publication Experts was very helpful marketing the book. If it wasn't ghostwriting’s untiring efforts, amazing marketing strategies, feedback, and promotional efforts, my book would only be an ordinary book not the best seller of the month. </p>
+                     <p class="testi-content">The Amz Publication Experts was very helpful marketing the book. If it wasn't ghostwriting’s untiring efforts, amazing marketing strategies, feedback, and promotional efforts, my book would only be an ordinary book not the best seller of the month. </p>
                      <h6 class="client-name">Esperanza Lang</h6>
                      <p class="author-name">Book author.</p>
                      <img class="img-fluid testi-cots" src="<?=$url?>/images/webp/test-dcots.webp" alt="">
@@ -688,7 +688,7 @@ We understand that the world of book marketing can be overwhelming, so we've cre
                <div class="col-md-4" data-aos="fade-right">
                   <div class="testi-wrapper">
                      <img class="img-fluid testi-image" src="<?=$url?>/images/webp/testi-img3.webp" alt="">
-                     <p class="testi-content">As I had a limited budget and couldn't afford an expensive marketing company for the book, I was quite worried. However, my friend suggested Amazon Publication Experts's affordable marketing services, and wow! they did a fantastic job. I can attest that there services meet the benchmark.</p>
+                     <p class="testi-content">As I had a limited budget and couldn't afford an expensive marketing company for the book, I was quite worried. However, my friend suggested Amz Publication Experts's affordable marketing services, and wow! they did a fantastic job. I can attest that there services meet the benchmark.</p>
                      <h6 class="client-name">John Delgado</h6>
                      <p class="author-name">Book author.</p>
                      <img class="img-fluid testi-cots" src="<?=$url?>/images/webp/test-dcots.webp" alt="">
@@ -733,10 +733,10 @@ We understand that the world of book marketing can be overwhelming, so we've cre
 
                   </div>
                   <div class="copyright-social">
-                     <p>© 2023 , Amazon Publication Experts, All right reserved.</p>
+                     <p>© 2023 , Amz Publication Experts, All right reserved.</p>
                     
                   </div>
-                  <p class="disclaimer-para"><b>Disclaimer:</b> The services provided by Amazon Publication Experts become clients' property once delivered. Amazon Publication Experts. will not hold any ownership rights once your work is successfully accepted by a publishing house.</p>
+                  <p class="disclaimer-para"><b>Disclaimer:</b> The services provided by Amz Publication Experts become clients' property once delivered. Amz Publication Experts. will not hold any ownership rights once your work is successfully accepted by a publishing house.</p>
                </div>
                <div class="col-lg-3 col-md-12 col-sm-12 footer-logo">
                   <img style="width:240px;" src="<?=$url?>/images/logo.png" alt="">

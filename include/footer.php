@@ -5,7 +5,7 @@
 <div class="footerbox-details footer-box-1">
 <img src="images/png-replace-footer.png">
 <div class="footer-text">
-<p>Amazon Publication Experts is a well-known Amazon Consultation business in the USA that offers reliable eCommerce solutions to increase brand recognition and profitability. </p>
+<p>Amz Publication Experts is a well-known Amazon Consultation business in the USA that offers reliable eCommerce solutions to increase brand recognition and profitability. </p>
 </div>
 <div class="btn-box">
 <a href="javascript:;" class="get-btn popup-btn">Get a Quote</a>
@@ -51,8 +51,8 @@
 <h3>Address</h3>
 </div>
 <div class="contact-footer">
-<a href="tel:(888) 918-0661"> <i class="fa fa-volume-control-phone" aria-hidden="true"></i><span> (888) 918-0661 </span> </a>
-<a href="mailto:sales@amazonpublicationexpert.com"><i class="fa fa-envelope" aria-hidden="true"></i> sales@amazonpublicationexpert.com</a>
+<a href="tel:(888) 918-0661"> <i class="fa fa-volume-control-phone" aria-hidden="true"></i><span> 2816612440 </span> </a>
+<a href="mailto:sales@amazonpublicationexpert.com"><i class="fa fa-envelope" aria-hidden="true"></i> sales@amzpublicationexpert.com</a>
 <p><i class="fa fa-map-marker" aria-hidden="true"></i> <span>Crynotixsolllc  <br> 1224 Lake knoll dr lilburn GA 30047<span class="blockdiv"></span></span></p>
 </div>
 </div>
@@ -65,7 +65,7 @@
 <div class="col-lg-12 col-md-12">
 <div class="powerdby">
 
-<p>Disclaimer: The logo, name, graphics of amazonpublicationexperts.com are trademarks of Amazon Publication Experts and are not related to Amazon Inc, in any way. All other respective company names, brand names, trademarks and logos mentioned on this website are the properties of their respective owners and do not constitute or imply endorsement, affiliation or sponsorship with Amazon Publication Experts.</p>
+<p>Disclaimer: The logo, name, graphics of amzpublicationexperts.com are trademarks of Amz Publication Experts and are not related to Amazon Inc, in any way. All other respective company names, brand names, trademarks and logos mentioned on this website are the properties of their respective owners and do not constitute or imply endorsement, affiliation or sponsorship with Amz Publication Experts.</p>
 </div>
 </div>
 

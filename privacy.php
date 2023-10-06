@@ -47,7 +47,7 @@ We never share or sell the information our clients collected by us for the proje
 <p>In case of any significant change or update in the policy we follow, the changes or update in the policy will be intimated by an email or through a notification on our website.</p>
 <h3>Terms and Conditions</h3>
 <p>Please visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website.</p>
-<p><b>Contact Amazon Publication Experts in case you have any query:</b></p>
+<p><b>Contact Amz Publication Experts in case you have any query:</b></p>
 <a href="mailto:info@amzpublicationexperts.com">Email us<br> at info@amzpublicationexperts.com</b></a>
 </div>
 </div>

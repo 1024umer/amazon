@@ -133,7 +133,7 @@
 <div class="row">
 <div class="col-sm-12">
 <div class="text-box">
-<h4 class="wow fadeInUp" data-wow-duration="2s">“Amazon Publication Experts excels at what it does. They provide excellent service and assist me in generating high-quality visitors. My campaign manager always responds quickly and patiently answers all my questions.”</h4>
+<h4 class="wow fadeInUp" data-wow-duration="2s">“Amz Publication Experts excels at what it does. They provide excellent service and assist me in generating high-quality visitors. My campaign manager always responds quickly and patiently answers all my questions.”</h4>
 <h3 class="wow fadeInUp" data-wow-duration="3s">Erica Daniels</h3>
 
 </div>

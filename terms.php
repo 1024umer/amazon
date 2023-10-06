@@ -102,7 +102,7 @@ To assure your refund request is approved, please make sure you meet the followi
 </p>
 <h3>Communication Policy
 </h3>
-<p>YOU agree that <b>Amazon Publication Experts</b> is not liable for any correspondence from email address (es) other than the ones followed by our own domain i.e. <b>"Amazon Publication Experts"</b> or/and any toll free number that is not mentioned on our website. <b>Amazon Publication Experts</b> should not be held responsible for any damage(s) caused by such correspondence. We only take responsibility of any communication through email address (es) under our own domain name or/and via toll free number i.e. already mentioned on <b>Amazon Publication Experts</b> Website.
+<p>YOU agree that <b>Amz Publication Experts</b> is not liable for any correspondence from email address (es) other than the ones followed by our own domain i.e. <b>"Amz Publication Experts"</b> or/and any toll free number that is not mentioned on our website. <b>Amz Publication Experts</b> should not be held responsible for any damage(s) caused by such correspondence. We only take responsibility of any communication through email address (es) under our own domain name or/and via toll free number i.e. already mentioned on <b>Amz Publication Experts</b> Website.
 </p>
 </div>
 </div>

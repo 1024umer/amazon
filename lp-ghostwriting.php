@@ -18,7 +18,7 @@ function reconstruct_url($url){
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
 <link rel="stylesheet" href="<?=$url?>/assets/css/style.min.css">
-<!--<link rel="stylesheet" href="<?=$url?>/assets/css/style-web.css">-->
+<link rel="stylesheet" href="<?=$url?>/assets/css/style-web.css">
 
 <!--<link rel="stylesheet" href="<?=$url?>/assets/css/responsive.css">-->
 <!--<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900" rel="stylesheet">-->
@@ -103,7 +103,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="row">
             <div class="col-md-5">
                <h2>Hire the Best Ghostwriters to Bring Your Story to Life</h2>
-                <p>We offer the most efficient ghostwriting services to ensure that you can achieve your dream of having a book written without having to worry about the intricacies involved. Our team of exceptional ghostwriters possesses the unique ability to write every story making it an unforgettable read. Amazon Publication Experts understand that every story has the right to be told and heard, that’s why we have gathered the most accomplished and creative ghostwriters under one roof. If you are a business owner or have a success story that deserves to be shared with the world, our ghostwriters are here to make it happen. We will give voice to your inspiring story, taking your suggestions into account at every stage. The manuscripts created by our ghostwriters will impact readers and leave them excited to read more of your books. </p>
+                <p>We offer the most efficient ghostwriting services to ensure that you can achieve your dream of having a book written without having to worry about the intricacies involved. Our team of exceptional ghostwriters possesses the unique ability to write every story making it an unforgettable read. Amz Publication Experts understand that every story has the right to be told and heard, that’s why we have gathered the most accomplished and creative ghostwriters under one roof. If you are a business owner or have a success story that deserves to be shared with the world, our ghostwriters are here to make it happen. We will give voice to your inspiring story, taking your suggestions into account at every stage. The manuscripts created by our ghostwriters will impact readers and leave them excited to read more of your books. </p>
 
 
                  <a href="javascript:;" data-fancybox="" data-src="#popupform" title="Activate Coupon Now" class="various" name="0">Let's Get Started</a>
@@ -316,12 +316,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="col-md-12">
                 <div id="testimonails-slider" class="owl-carousel owl-theme">
                     <div class="item">
-                        <p>Amazon Publication Experts made my dream of becoming an author come true. They are some crazy creative people with a lot of ideas and took care of everything from outlining the plot to designing and publishing. They revised the draft times and again to my satisfaction.</p>
+                        <p>Amz Publication Experts made my dream of becoming an author come true. They are some crazy creative people with a lot of ideas and took care of everything from outlining the plot to designing and publishing. They revised the draft times and again to my satisfaction.</p>
                         <h6>Martha Doyle <span>Educationist and Author</span></h6>
                     </div>
 
                     <div class="item">
-                        <p>I was referred to Amazon Publication Experts by a friend – and I couldn't thank him enough for this. The professionals at Amazon Publication Experts took time to understand my requirements and took it to their heart to convert my book idea into a published reality.</p>
+                        <p>I was referred to Amz Publication Experts by a friend – and I couldn't thank him enough for this. The professionals at Amz Publication Experts took time to understand my requirements and took it to their heart to convert my book idea into a published reality.</p>
                         <h6>Evan Bruce <span>Author</span></h6>
                     </div>
                 </div>
@@ -359,7 +359,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="col-md-5">
             <img class="lazy" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
      data-src="<?=$url?>/assets/images/logo.png?1=1" alt="">
-            <p>Amazon Publication Experts has brilliant writers to accommodate all genres, from fiction novels to business books, memoirs to self-help guides. We also provide turnkey publishing services for authors globally.
+            <p>Amz Publication Experts has brilliant writers to accommodate all genres, from fiction novels to business books, memoirs to self-help guides. We also provide turnkey publishing services for authors globally.
               
           </p>
         </div>
@@ -377,7 +377,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <div class="copyright">
     <div class="container">
-        <p>Amazon Publication Experts. All Rights Reserved. </p>
+        <p>Amz Publication Experts. All Rights Reserved. </p>
 <i class="top-scroll"><img class="lazy" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
      data-src="<?=$url?>/assets/images/top-scroll.png" alt=""></i>
     </div>

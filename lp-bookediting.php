@@ -670,7 +670,7 @@
                <div class="col-md-4" data-aos="fade-down">
                   <div class="testi-wrapper">
                      <img class="img-fluid testi-image" src="https://amazonpublicationexperts.com/assets-lp-marketing/images/webp/testi-img2.webp" alt="">
-                     <p class="testi-content">The Amazon Publication Experts was very helpful marketing the book. If it wasn't ghostwriting’s untiring efforts, amazing marketing strategies, feedback, and promotional efforts, my book would only be an ordinary book not the best seller of the month. </p>
+                     <p class="testi-content">The Amz Publication Experts was very helpful marketing the book. If it wasn't ghostwriting’s untiring efforts, amazing marketing strategies, feedback, and promotional efforts, my book would only be an ordinary book not the best seller of the month. </p>
                      <h6 class="client-name">Esperanza Lang</h6>
                      <p class="author-name">Book author.</p>
                      <img class="img-fluid testi-cots" src="https://amazonpublicationexperts.com/assets-lp-marketing/images/webp/test-dcots.webp" alt="">
@@ -679,7 +679,7 @@
                <div class="col-md-4" data-aos="fade-right">
                   <div class="testi-wrapper">
                      <img class="img-fluid testi-image" src="https://amazonpublicationexperts.com/assets-lp-marketing/images/webp/testi-img3.webp" alt="">
-                     <p class="testi-content">As I had a limited budget and couldn't afford an expensive marketing company for the book, I was quite worried. However, my friend suggested Amazon Publication Experts's affordable marketing services, and wow! they did a fantastic job. I can attest that there services meet the benchmark.</p>
+                     <p class="testi-content">As I had a limited budget and couldn't afford an expensive marketing company for the book, I was quite worried. However, my friend suggested Amz Publication Experts's affordable marketing services, and wow! they did a fantastic job. I can attest that there services meet the benchmark.</p>
                      <h6 class="client-name">John Delgado</h6>
                      <p class="author-name">Book author.</p>
                      <img class="img-fluid testi-cots" src="https://amazonpublicationexperts.com/assets-lp-marketing/images/webp/test-dcots.webp" alt="">

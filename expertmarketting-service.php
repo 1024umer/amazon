@@ -239,7 +239,7 @@
 </div>
 <div class="cont">
 <h4>Understand Your Ideal Readers</h4>
-<p>At Amazon Publication Experts, we have a team of book marketing experts who conduct thorough research to identify your book's target audience. We use this knowledge to connect with readers who enjoy your genre, resulting in increased sales and exposure for your book.</p>
+<p>At Amz Publication Experts, we have a team of book marketing experts who conduct thorough research to identify your book's target audience. We use this knowledge to connect with readers who enjoy your genre, resulting in increased sales and exposure for your book.</p>
 </div>
 </div>
 </div>
@@ -281,7 +281,7 @@
 </div>
 <div class="cont">
 <h4>Professional Book Marketing Services Can Improve Your Book</h4>
-<p>You're unsure of where to begin when it comes to proper book advertising for your company. In essentially, there are numerous digital agencies, but are your needs unique? Did you feel dissatisfied with the previous result? No problems. What you require is a team of professionals from Amazon Publication Experts you can trust us to produce the desired outcomes at an affordable cost. You are on the appropriate platform. Welcome to your new book promotion service which also improve your book </p>
+<p>You're unsure of where to begin when it comes to proper book advertising for your company. In essentially, there are numerous digital agencies, but are your needs unique? Did you feel dissatisfied with the previous result? No problems. What you require is a team of professionals from Amz Publication Experts you can trust us to produce the desired outcomes at an affordable cost. You are on the appropriate platform. Welcome to your new book promotion service which also improve your book </p>
 </div>
 </div>
 </div>
@@ -323,7 +323,7 @@
 <div class="row">
 <div class="col-sm-12">
 <div class="text-box">
-<h2 class="wow fadeInUp" data-wow-duration="2s">Why Do People Choose Amazon Publication Experts?</h2>
+<h2 class="wow fadeInUp" data-wow-duration="2s">Why Do People Choose Amz Publication Experts?</h2>
 <p class="wow fadeInUp" data-wow-duration="3s">The following are just a few of the many ways we stand out from other Amazon service providers in a market flooded with hundreds of businesses and contract workers.</p>
 </div>
 </div>
@@ -488,7 +488,7 @@
 <div class="col-sm-12">
 <div class="text-box">
 <h2 class="wow fadeInUp" data-wow-duration="2s">We're Trusted by the Businesses You Love</h2>
-<p class="wow fadeInUp" data-wow-duration="3s">Amazon Publication Experts has worked with numerous renowned names in the industry. With our dedication and efforts, we have time and again proven that we're the best eCommerce store agency in the USA.</p>
+<p class="wow fadeInUp" data-wow-duration="3s">Amz Publication Experts has worked with numerous renowned names in the industry. With our dedication and efforts, we have time and again proven that we're the best eCommerce store agency in the USA.</p>
 </div>
 <div class="platform-img-box wow zoomIn" data-wow-duration="4s">
 <img src="images/platform-1.png">

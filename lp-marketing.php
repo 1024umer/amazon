@@ -21,7 +21,7 @@ function reconstruct_url($url){
       <link rel="stylesheet" href="<?=$url?>/css/custom.css">
       <link rel="stylesheet" href="<?=$url?>/css/responsive.css">
       <title>Professional Book Promotion & Book Marketing Services.</title>
-      <meta name="Amazon Publication Experts offers a staggering discount on its book marketing service. Get help for book promotion, eBook marketing services. Hire a dedicated book marketer that too at an affordable price.">
+      <meta name="Amz Publication Experts offers a staggering discount on its book marketing service. Get help for book promotion, eBook marketing services. Hire a dedicated book marketer that too at an affordable price.">
       <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -114,7 +114,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                </div>
                <div class="col-md-7">
                   <h2 class="sec-heading" data-aos="fade-down">Experience Outstanding Book Marketing & Promotion Services</h2>
-                  <p class="sec-para" data-aos="fade-left">Amazon Publication Experts team is here to support you so you can confidently use book promotion strategies to draw attention to both your book and your professional development as a writer. To increase the number of people who read your book our marketing team develops creative book marketing strategies and plans. <br>
+                  <p class="sec-para" data-aos="fade-left">Amz Publication Experts team is here to support you so you can confidently use book promotion strategies to draw attention to both your book and your professional development as a writer. To increase the number of people who read your book our marketing team develops creative book marketing strategies and plans. <br>
 Of course, the world needs to be informed about the publication of your eccentric book and that is what we are here to do. When your book is published, we'll design a marketing and promotion campaign that will grab attention. The objective is to connect with anyone who might be interested in the genre of your book.
 
                   </p>
@@ -162,8 +162,8 @@ Of course, the world needs to be informed about the publication of your eccentri
       </section>
       <section class="client-reviews sec-padding">
          <div class="container">
-            <h2 class="sec-heading" data-aos="fade-down">Why Amazon Publication Experts Are Chosen By Clients Worldwide</h2>
-            <p class="sec-para" data-aos="fade-up">At Amazon Publication Experts, we know what it takes to execute flawless marketing strategies that lead to the best-selling status of our clients' books.</p>
+            <h2 class="sec-heading" data-aos="fade-down">Why Amz Publication Experts Are Chosen By Clients Worldwide</h2>
+            <p class="sec-para" data-aos="fade-up">At Amz Publication Experts, we know what it takes to execute flawless marketing strategies that lead to the best-selling status of our clients' books.</p>
             <div class="row books-main-slider">
                <div class="col-lg-3" data-aos="fade-down">
                   <div class="featured-box text-center">
@@ -194,7 +194,7 @@ Of course, the world needs to be informed about the publication of your eccentri
                         <h2>Identifying The Target Audience</h2>
                      </div>
                      <div class="content">
-                        <p>We at Amazon Publication Experts are masters in thorough research and can guide you in selecting the ideal target market for your book. Research will help you target your advertisements to readers who experience the genre you write throughout, which will increase your sales as well.</p>
+                        <p>We at Amz Publication Experts are masters in thorough research and can guide you in selecting the ideal target market for your book. Research will help you target your advertisements to readers who experience the genre you write throughout, which will increase your sales as well.</p>
                      </div>
                   </div>
                </div>
@@ -665,7 +665,7 @@ Of course, the world needs to be informed about the publication of your eccentri
                <div class="col-md-4" data-aos="fade-down">
                   <div class="testi-wrapper">
                      <img class="img-fluid testi-image" src="<?=$url?>/images/webp/testi-img2.webp" alt="">
-                     <p class="testi-content">The Amazon Publication Experts was very helpful marketing the book. If it wasn't ghostwriting’s untiring efforts, amazing marketing strategies, feedback, and promotional efforts, my book would only be an ordinary book not the best seller of the month. </p>
+                     <p class="testi-content">The Amz Publication Experts was very helpful marketing the book. If it wasn't ghostwriting’s untiring efforts, amazing marketing strategies, feedback, and promotional efforts, my book would only be an ordinary book not the best seller of the month. </p>
                      <h6 class="client-name">Esperanza Lang</h6>
                      <p class="author-name">Book author.</p>
                      <img class="img-fluid testi-cots" src="<?=$url?>/images/webp/test-dcots.webp" alt="">
@@ -674,7 +674,7 @@ Of course, the world needs to be informed about the publication of your eccentri
                <div class="col-md-4" data-aos="fade-right">
                   <div class="testi-wrapper">
                      <img class="img-fluid testi-image" src="<?=$url?>/images/webp/testi-img3.webp" alt="">
-                     <p class="testi-content">As I had a limited budget and couldn't afford an expensive marketing company for the book, I was quite worried. However, my friend suggested Amazon Publication Experts's affordable marketing services, and wow! they did a fantastic job. I can attest that there services meet the benchmark.</p>
+                     <p class="testi-content">As I had a limited budget and couldn't afford an expensive marketing company for the book, I was quite worried. However, my friend suggested Amz Publication Experts's affordable marketing services, and wow! they did a fantastic job. I can attest that there services meet the benchmark.</p>
                      <h6 class="client-name">John Delgado</h6>
                      <p class="author-name">Book author.</p>
                      <img class="img-fluid testi-cots" src="<?=$url?>/images/webp/test-dcots.webp" alt="">
@@ -719,10 +719,10 @@ Of course, the world needs to be informed about the publication of your eccentri
 
                   </div>
                   <div class="copyright-social">
-                     <p>© 2023 , Amazon Publication Experts, All right reserved.</p>
+                     <p>© 2023 , Amz Publication Experts, All right reserved.</p>
                     
                   </div>
-                  <p class="disclaimer-para"><b>Disclaimer:</b> The services provided by Amazon Publication Experts become clients' property once delivered. Amazon Publication Experts. will not hold any ownership rights once your work is successfully accepted by a publishing house.</p>
+                  <p class="disclaimer-para"><b>Disclaimer:</b> The services provided by Amz Publication Experts become clients' property once delivered. Amz Publication Experts. will not hold any ownership rights once your work is successfully accepted by a publishing house.</p>
                </div>
                <div class="col-lg-3 col-md-12 col-sm-12 footer-logo">
                   <img style="width:240px;" src="<?=$url?>/images/logo.png" alt="">

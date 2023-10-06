@@ -21,7 +21,7 @@
 
 
 
-	 <title>Amazon Publication Experts | Hassle-free Book Publication Services NOW at ONLY 50% OFF</title>
+	 <title>Amz Publication Experts | Hassle-free Book Publication Services NOW at ONLY 50% OFF</title>
 
 
 
@@ -150,7 +150,7 @@
   		<div class="row">
   			<div class="led-ghst-cont">
   				<h3>USA’s Leading Ghostwriting Services:</h3>
-  				<p>The Amazon Publication Experts provides you with an opportunity to fulfill your dream of becoming an author with a high possibility of achieving the title of New York Times Best Seller. It’s a platform where success stories begin!</p>
+  				<p>The Amz Publication Experts provides you with an opportunity to fulfill your dream of becoming an author with a high possibility of achieving the title of New York Times Best Seller. It’s a platform where success stories begin!</p>
   			</div>
 
 
@@ -728,7 +728,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <p> Copyright © 2023 - Amazon Publication Experts. All Rights Reserved</p>
+                <p> Copyright © 2023 - Amz Publication Experts. All Rights Reserved</p>
             </div>
          
         </div>

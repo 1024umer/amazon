@@ -30,7 +30,7 @@
 <div class="row">
 <div class="col-sm-12">
 <div class="text-box platform-text-box">
-<h2 class="wow fadeInUp" data-wow-duration="s">Amazon Publication Experts Book Printing Services</h2>
+<h2 class="wow fadeInUp" data-wow-duration="s">Amz Publication Experts Book Printing Services</h2>
 <!--<p class="wow fadeInUp" data-wow-duration="3s">We take great pleasure in establishing ourselves as the leading Amazon PPC firm, operating like an efficient machine where solid reasoning and verifiable facts guide every step. Sponsored items are one of the most important aspects of running a successful eCommerce business on Amazon, yet many sellers struggle to properly understand the concept.</p>-->
 </div>
 </div>
@@ -104,7 +104,7 @@
 <div class="ser-tex">
 
 <h2 class="wow fadeInUp" data-wow-duration="3s">Professional Book Printing</h2>
-<p class="wow fadeInUp" data-wow-duration="4s">Amazon Publication Experts has years of experience, we have created the best and highest quality book printing services in the area. Our team guarantees that the colors, quality and overall appearance of every book, whether it contains illustrations or just plain text. Our customers can trust us to handle their book printing needs; we won't let them down.</p>
+<p class="wow fadeInUp" data-wow-duration="4s">Amz Publication Experts has years of experience, we have created the best and highest quality book printing services in the area. Our team guarantees that the colors, quality and overall appearance of every book, whether it contains illustrations or just plain text. Our customers can trust us to handle their book printing needs; we won't let them down.</p>
 <p>Any book's appearance depends greatly on its printing. If the printing and binding are done well and professionally, the overall look is more appealing and complete. The price to print a book varies according to how detailed it must be and whether it contains images. Our printing team has created packages that are tailored to each client's budget while guaranteeing results that go above and beyond expectations. To fulfill your dreams of the ideal book, let us print one for you!</p>
 </div>
 <div class="btn-box wow fadeInUp" data-wow-duration="3s">
@@ -130,7 +130,7 @@
 <div class="row">
 <div class="col-sm-12">
 <div class="text-box">
-<h4 class="wow fadeInUp" data-wow-duration="2s">“Amazon Publication Experts excels at what it does. They provide excellent service and assist me in generating high-quality visitors. My campaign manager always responds quickly and patiently answers all my questions.”</h4>
+<h4 class="wow fadeInUp" data-wow-duration="2s">“Amz Publication Experts excels at what it does. They provide excellent service and assist me in generating high-quality visitors. My campaign manager always responds quickly and patiently answers all my questions.”</h4>
 <h3 class="wow fadeInUp" data-wow-duration="3s">Erica Daniels</h3>
 
 </div>
@@ -206,7 +206,7 @@
 <div class="text-box ">
 <h2 class="wow fadeInUp" data-wow-duration="2s">Why Work with Our Amazon PPC<br>Experts for Amazon PPC Services?
 </h2>
-<p class="wow fadeInUp" data-wow-duration="3s">If you select Amazon Publication Experts as your PPC provider for Amazon, you will receive the following market advantages for your business:</p>
+<p class="wow fadeInUp" data-wow-duration="3s">If you select Amz Publication Experts as your PPC provider for Amazon, you will receive the following market advantages for your business:</p>
 </div>
 <div class="counter-main-box">
 <ul>

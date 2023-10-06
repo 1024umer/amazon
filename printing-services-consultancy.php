@@ -248,7 +248,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <section class="features-col">
     <div class="container">
-        <h2>Why Amazon Publication Experts are the Top Choice for Book Printing Services</h2>
+        <h2>Why Amz Publication Experts are the Top Choice for Book Printing Services</h2>
        <div class="row">
            <div class="col-md-3 box-color-srv">
                <div>
@@ -324,12 +324,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="col-md-12">
                 <div id="testimonails-slider" class="owl-carousel owl-theme">
                     <div class="item">
-                        <p>Amazon Publication Experts made my dream of becoming an author come true. They are some crazy creative people with a lot of ideas and took care of everything from outlining the plot to designing and publishing. They revised the draft times and again to my satisfaction.</p>
+                        <p>Amz Publication Experts made my dream of becoming an author come true. They are some crazy creative people with a lot of ideas and took care of everything from outlining the plot to designing and publishing. They revised the draft times and again to my satisfaction.</p>
                         <h6>Martha Doyle <span>Educationist and Author</span></h6>
                     </div>
 
                     <div class="item">
-                        <p>I was referred to Amazon Publication Experts by a friend – and I couldn't thank him enough for this. The professionals at Amazon Publication Experts took time to understand my requirements and took it to their heart to convert my book idea into a published reality.</p>
+                        <p>I was referred to Amz Publication Experts by a friend – and I couldn't thank him enough for this. The professionals at Amz Publication Experts took time to understand my requirements and took it to their heart to convert my book idea into a published reality.</p>
                         <h6>Evan Bruce <span>Author</span></h6>
                     </div>
                 </div>
@@ -367,7 +367,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="col-md-5">
             <img class="lazy" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
      data-src="<?=$url?>/assets/images/logo.png?1=1" alt="">
-            <p>Amazon Publication Experts has brilliant writers to accommodate all genres, from fiction novels to business books, memoirs to self-help guides. We also provide turnkey publishing services for authors globally.
+            <p>Amz Publication Experts has brilliant writers to accommodate all genres, from fiction novels to business books, memoirs to self-help guides. We also provide turnkey publishing services for authors globally.
               
           </p>
         </div>
@@ -385,7 +385,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <div class="copyright">
     <div class="container">
-        <p>Amazon Publication Experts. All Rights Reserved. </p>
+        <p>Amz Publication Experts. All Rights Reserved. </p>
 <i class="top-scroll"><img class="lazy" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
      data-src="<?=$url?>/assets/images/top-scroll.png" alt=""></i>
     </div>

@@ -29,7 +29,7 @@
 <div class="col-sm-12">
 <div class="text-box platform-text-box">
 <h2 class="wow fadeInUp" data-wow-duration="s">Pros of creating an Amazon Author Page</h2>
-<p class="wow fadeInUp" data-wow-duration="3s">Authors of various genres, ethnic origins, and geographic places can create their unique Amazon author pages with the best service, Amazon Publication Experts.</p>
+<p class="wow fadeInUp" data-wow-duration="3s">Authors of various genres, ethnic origins, and geographic places can create their unique Amazon author pages with the best service, Amz Publication Experts.</p>
 </div>
 </div>
 <div class="col-sm-12">
@@ -44,7 +44,7 @@
 </div>
 <div class="cont">
 <h4>Frequently<br>Updated Profiles</h4>
-<p>At Amazon Publication Experts, we make sure that your Authors Page has a thorough and full appearance to attract visitors to purchase your books. If you have written new books, our knowledgeable author's page maintenance agency regularly updates your page.</p>
+<p>At Amz Publication Experts, we make sure that your Authors Page has a thorough and full appearance to attract visitors to purchase your books. If you have written new books, our knowledgeable author's page maintenance agency regularly updates your page.</p>
 </div>
 </div>
 </div>
@@ -183,7 +183,7 @@ We want more people to use your eBook services by boosting their authority and c
 <div class="text-box ">
 <h2 class="wow fadeInUp" data-wow-duration="2s">Why Choose Experts<br>for Amazon Author Profile Setup?
 </h2>
-<p class="wow fadeInUp" data-wow-duration="3s">The perks listed below are available to you if you select Amazon Publication Experts for setting up your Amazon author page.</p>
+<p class="wow fadeInUp" data-wow-duration="3s">The perks listed below are available to you if you select Amz Publication Experts for setting up your Amazon author page.</p>
 </div>
 <div class="counter-main-box">
 <ul>

@@ -9,7 +9,7 @@
 <meta charset="UTF-8">
 <title>Amz Publication Experts</title>
 <meta name="facebook-domain-verification" content="tx13joxxzo2tg1aimdvtuj0xlfepvy" />
-<meta name="description" content="   Amazon Publication Experts is a marketing agency that provides premium Amazon marketing services in the USA. We take a holistic approach to create your campaign, execute it, and achieve results.">
+<meta name="description" content="   Amz Publication Experts is a marketing agency that provides premium Amazon marketing services in the USA. We take a holistic approach to create your campaign, execute it, and achieve results.">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 <link rel="stylesheet" type="text/css" href="css/animate.css">

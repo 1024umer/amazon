@@ -206,7 +206,7 @@
 <div class="col-sm-12">
 <div class="text-box ">
 <h2 class="wow fadeInUp" data-wow-duration="2s">Why Work With Our Amazon A++ Marketing Professionals?</h2>
-<p class="wow fadeInUp" data-wow-duration="3s">If you use Amazon Publication Experts as your marketing firm, you can take advantage of the following perks:</p>
+<p class="wow fadeInUp" data-wow-duration="3s">If you use Amz Publication Experts as your marketing firm, you can take advantage of the following perks:</p>
 </div>
 <div class="counter-main-box">
 <ul>

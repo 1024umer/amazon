@@ -99,8 +99,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="row">
             <div class="col-md-5">
                <h2>The world is waiting for your book</h2>
-                <p>Every great advancement is born out of a fascinating work of imagination. We, at Amazon Publication Experts, will take that step forward for you. Every story deserves to be told and heard. Therefore, we invite you to experience the work of industry's most professional yet extremely innovative ghostwriters, all under one roof. <br><br>
-We have a track record of delivering thousands of successful publications – meticulously written, edited, designed and published. Many of the published works we have done for our clients have created a buzz in the literary sphere and ranked among the best sellers. Amazon Publication Experts is the perfect choice to put your ideas on paper. We have writers who can help you tell your story, in any genre, from fiction to nonfiction.</p>
+                <p>Every great advancement is born out of a fascinating work of imagination. We, at Amz Publication Experts, will take that step forward for you. Every story deserves to be told and heard. Therefore, we invite you to experience the work of industry's most professional yet extremely innovative ghostwriters, all under one roof. <br><br>
+We have a track record of delivering thousands of successful publications – meticulously written, edited, designed and published. Many of the published works we have done for our clients have created a buzz in the literary sphere and ranked among the best sellers. Amz Publication Experts is the perfect choice to put your ideas on paper. We have writers who can help you tell your story, in any genre, from fiction to nonfiction.</p>
 
 
                  <a href="javascript:;" data-fancybox="" data-src="#popupform" title="Activate Coupon Now" class="various" name="0">Let's Get Started</a>
@@ -313,12 +313,12 @@ We have a track record of delivering thousands of successful publications – me
             <div class="col-md-12">
                 <div id="testimonails-slider" class="owl-carousel owl-theme">
                     <div class="item">
-                        <p>Amazon Publication Experts made my dream of becoming an author come true. They are some crazy creative people with a lot of ideas and took care of everything from outlining the plot to designing and publishing. They revised the draft times and again to my satisfaction.</p>
+                        <p>Amz Publication Experts made my dream of becoming an author come true. They are some crazy creative people with a lot of ideas and took care of everything from outlining the plot to designing and publishing. They revised the draft times and again to my satisfaction.</p>
                         <h6>Martha Doyle <span>Educationist and Author</span></h6>
                     </div>
 
                     <div class="item">
-                        <p>I was referred to Amazon Publication Experts by a friend – and I couldn't thank him enough for this. The professionals at Amazon Publication Experts took time to understand my requirements and took it to their heart to convert my book idea into a published reality.</p>
+                        <p>I was referred to Amz Publication Experts by a friend – and I couldn't thank him enough for this. The professionals at Amz Publication Experts took time to understand my requirements and took it to their heart to convert my book idea into a published reality.</p>
                         <h6>Evan Bruce <span>Author</span></h6>
                     </div>
                 </div>
@@ -356,7 +356,7 @@ We have a track record of delivering thousands of successful publications – me
         <div class="col-md-5">
             <img class="lazy" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
      data-src="<?=$url?>/assets/images/logo.png?1=1" alt="">
-            <p>Amazon Publication Experts has brilliant writers to accommodate all genres, from fiction novels to business books, memoirs to self-help guides. We also provide turnkey publishing services for authors globally.
+            <p>Amz Publication Experts has brilliant writers to accommodate all genres, from fiction novels to business books, memoirs to self-help guides. We also provide turnkey publishing services for authors globally.
               
           </p>
         </div>
@@ -374,7 +374,7 @@ We have a track record of delivering thousands of successful publications – me
 
 <div class="copyright">
     <div class="container">
-        <p>Amazon Publication Experts. All Rights Reserved. </p>
+        <p>Amz Publication Experts. All Rights Reserved. </p>
 <i class="top-scroll"><img class="lazy" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
      data-src="<?=$url?>/assets/images/top-scroll.png" alt=""></i>
     </div>

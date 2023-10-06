@@ -22,7 +22,7 @@ function reconstruct_url($url){
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
     <link media="all" href="https://fonts.googleapis.com/css2?family=Spline+Sans:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet">
     <link media="all" href="https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet">
-    <title>Amazon Publication Experts | Hassle-free Book Publication Services NOW at ONLY 70% OFF</title>
+    <title>Amz Publication Experts | Hassle-free Book Publication Services NOW at ONLY 70% OFF</title>
 
 
 	<!-- Google Tag Manager -->
@@ -171,7 +171,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 </div>
             </div>
             <div class="col-md-5">
-                <p>The publishing industry has evolved considerably in the last decade to deal with digital disruption, piracy, changing reading habits, the rise of audiobooks, extreme competition, production problems, and excessive promotion. It is extremely hard to get a traditional publisher to even read your manuscript let alone offer you a publishing contract. Traditional publishers are generally bombarded with hundreds of manuscripts from tons of writers and agents. That is why choosing Amazon Publication Experts to get your book published is the way to go for new and established writers!</p>
+                <p>The publishing industry has evolved considerably in the last decade to deal with digital disruption, piracy, changing reading habits, the rise of audiobooks, extreme competition, production problems, and excessive promotion. It is extremely hard to get a traditional publisher to even read your manuscript let alone offer you a publishing contract. Traditional publishers are generally bombarded with hundreds of manuscripts from tons of writers and agents. That is why choosing Amz Publication Experts to get your book published is the way to go for new and established writers!</p>
                 <div class="btn-block">
                     <a href="javascript:void(0)" class="btn btn-light chat">
                         Live Chat
@@ -213,10 +213,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <section class="our-process">
     <div class="container" data-aos="fade-up" data-aos-duration="1000">
         <h2 class="text-center zila">
-            Amazon Publication Experts Book <br>
+            Amz Publication Experts Book <br>
             Publishing Process
         </h2>
-        <h3>Amazon Publication Experts book publishing process is a simple six-step process that has been streamlined over the years to make the entire experience smooth, functional, and easy to understand for our clients. Check out our publishing process down below.</h3>
+        <h3>Amz Publication Experts book publishing process is a simple six-step process that has been streamlined over the years to make the entire experience smooth, functional, and easy to understand for our clients. Check out our publishing process down below.</h3>
         <div class="owl-process owl-carousel owl-theme">
             <div class="item">
                 <div class="process">
@@ -290,19 +290,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="owl-testimonial owl-carousel owl-theme">
             <div class="item">
                 <div class="info-testi">
-                    <p>“I’ve had several of my books ghostwritten, edited, formatted, designed, and published through Amazon Publication Experts! They’ve taken my dreams of becoming a writer by profession and made it a reality and now all I have to do is come up with new book ideas.”</p>
+                    <p>“I’ve had several of my books ghostwritten, edited, formatted, designed, and published through Amz Publication Experts! They’ve taken my dreams of becoming a writer by profession and made it a reality and now all I have to do is come up with new book ideas.”</p>
                     <h4>Arnold Moss</h4>
                 </div>
             </div>
             <div class="item">
                 <div class="info-testi">
-                    <p>“As a writer who writes a lot of books every month, I never have the time to edit my book let alone go after publishing agencies to notice my manuscript. Amazon Publication Experts has taken a load off my back with their editing and publishing services!”</p>
+                    <p>“As a writer who writes a lot of books every month, I never have the time to edit my book let alone go after publishing agencies to notice my manuscript. Amz Publication Experts has taken a load off my back with their editing and publishing services!”</p>
                     <h4>Lindsey Page</h4>
                 </div>
             </div>
             <div class="item">
                 <div class="info-testi">
-                    <p>“It’s not easy keeping up with readers’ demands for sequels to a book series you start. That’s why I outsource some of my writing projects to Amazon Publication Experts! Their team is excellent with both the writing and the editing and they publish my work for me too!”</p>
+                    <p>“It’s not easy keeping up with readers’ demands for sequels to a book series you start. That’s why I outsource some of my writing projects to Amz Publication Experts! Their team is excellent with both the writing and the editing and they publish my work for me too!”</p>
                     <h4>Gabriel Watts</h4>
                 </div>
             </div>
@@ -388,7 +388,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <p> Copyright © 2023 - Amazon Publication Experts. All Rights Reserved</p>
+                <p> Copyright © 2023 - Amz Publication Experts. All Rights Reserved</p>
             </div>
          
         </div>

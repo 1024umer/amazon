@@ -29,8 +29,8 @@
 <div class="row">
 <div class="col-sm-12">
 <div class="text-box platform-text-box">
-<h2 class="wow fadeInUp" data-wow-duration="s">Amazon Publication Experts Ghostwriting Services</h2>
-<!--<p class="wow fadeInUp" data-wow-duration="3s">At Amazon Publication Experts, our hand-selected team of expert copywriters develops distinctive yet persuasive writing for items and uses attention-getting imagery to generate upgraded product listings that attract more buyers.</p>-->
+<h2 class="wow fadeInUp" data-wow-duration="s">Amz Publication Experts Ghostwriting Services</h2>
+<!--<p class="wow fadeInUp" data-wow-duration="3s">At Amz Publication Experts, our hand-selected team of expert copywriters develops distinctive yet persuasive writing for items and uses attention-getting imagery to generate upgraded product listings that attract more buyers.</p>-->
 </div>
 </div>
 <div class="col-sm-12">
@@ -97,7 +97,7 @@
 </div> </div>
 <div class="col-sm-7 service-form-before">
 <div class="ser-tex">
-<h4 class="wow fadeInUp" data-wow-duration="2s">Hire Amazon Publication Experts For </h4>
+<h4 class="wow fadeInUp" data-wow-duration="2s">Hire Amz Publication Experts For </h4>
 <h2 class="wow fadeInUp" data-wow-duration="3s">High-Quality Ghostwriting Services </h2>
 <p class="wow fadeInUp" data-wow-duration="4s">We specialize in providing high-quality ghostwriting services for a wide range of clients, including authors, entrepreneurs, executives, academics and more. Our team consists of experienced and skilled writers who are committed to producing original, well-researched and compelling content that reflects your unique voice and style.<br>
 Whether you need a ghostwriter for your book, blog, article, speech, or any other type of writing project, we have the expertise and resources to deliver the results you want. We take pride in our ability to work closely with our clients to understand their goals, preferences, and expectations and to provide personalized service that exceeds their expectations.</p>
@@ -152,7 +152,7 @@ Whether you need a ghostwriter for your book, blog, article, speech, or any othe
 <div class="ser-tex">
 <h4 class="wow fadeInUp" data-wow-duration="2s">Your Words, Our Pen </h4>
 <h2 class="wow fadeInUp" data-wow-duration="3s">The Secret To Successful Ghostwriting</h2>
-<p class="wow fadeInUp" data-wow-duration="4s">Now that you are aware of what ghost writing is, the following question arises: Do you have anything you'd like to teach or share with others? You might have a compelling story to share through writing, but you might not have much time to write yourself or you might be a newcomer with little to no experience. Amazon Publication Experts is here to touch your back and inspire you to express yourself creatively because they have talented ghostwriters who will create outstanding content for you or your business.<br><br>
+<p class="wow fadeInUp" data-wow-duration="4s">Now that you are aware of what ghost writing is, the following question arises: Do you have anything you'd like to teach or share with others? You might have a compelling story to share through writing, but you might not have much time to write yourself or you might be a newcomer with little to no experience. Amz Publication Experts is here to touch your back and inspire you to express yourself creatively because they have talented ghostwriters who will create outstanding content for you or your business.<br><br>
 You might be unsure of how to structure your book or where to begin. It's all right; we can help. As experts in ghostwriting, we have writers who adore putting your ideas into words and even writers who can assist you in your writing. The opportunities are endless through us because we accept submissions from writers of all genres. Professionals who specialize in ghostwriting can help you feasibly finish the process of book writing services.</p>
 </div>
 <div class="btn-box wow fadeInUp" data-wow-duration="2s">
@@ -171,7 +171,7 @@ You might be unsure of how to structure your book or where to begin. It's all ri
 <div class="ser-tex">
 <h4 class="wow fadeInUp" data-wow-duration="2s">How Do We Work?</h4>
 <h2 class="wow fadeInUp" data-wow-duration="3s">Is Infused in the Writing</h2>
-<p class="wow fadeInUp" data-wow-duration="4s">The author-writer contact process is streamlined and made simple at Amazon Publication Experts. We believe the topic of your book is already clear to you, whether it be your life narrative, the lessons you've learned from your professional experience or the tale you've been feeling to share. You only need to write down your thoughts; we'll work on crafting the right sentences to express them. We employ talented authors who convert verbatim notes into written, better-edited content.<br><br>
+<p class="wow fadeInUp" data-wow-duration="4s">The author-writer contact process is streamlined and made simple at Amz Publication Experts. We believe the topic of your book is already clear to you, whether it be your life narrative, the lessons you've learned from your professional experience or the tale you've been feeling to share. You only need to write down your thoughts; we'll work on crafting the right sentences to express them. We employ talented authors who convert verbatim notes into written, better-edited content.<br><br>
 Contact us today to learn more about our ghostwriting services and how we can help you bring your ideas to life.</p>
 </div>
 <div class="btn-box wow fadeInUp" data-wow-duration="2s">
@@ -195,7 +195,7 @@ Contact us today to learn more about our ghostwriting services and how we can he
 <div class="text-box ">
 <h2 class="wow fadeInUp" data-wow-duration="2s">Why You Should Pick Us For<br>Amazon Content Marketing
 </h2>
-<p class="wow fadeInUp" data-wow-duration="3s">Several businesses have benefited from Amazon Publication Experts assistance in increasing sales. Because to our revenue-driver techniques, we have become the go-to business for creating Amazon Enhanced Brand Content.</p>
+<p class="wow fadeInUp" data-wow-duration="3s">Several businesses have benefited from Amz Publication Experts assistance in increasing sales. Because to our revenue-driver techniques, we have become the go-to business for creating Amazon Enhanced Brand Content.</p>
 </div>
 <div class="counter-main-box">
 <ul>

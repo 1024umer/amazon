@@ -6,7 +6,7 @@
 <div class="col-sm-5">
 <div class="text-box-service ">
 <h2 class="wow fadeInUp" data-wow-duration="2s">Professional Publishing Services to Take Your Writing to the Next Level</h2>
-<p class="wow fadeInUp" data-wow-duration="3s">Are you ready to introduce your author's dream? We are here to serve as your stepping stone to success. Use the amazon publication services from Amazon publication Experts, then let's get start your journey.</p>
+<p class="wow fadeInUp" data-wow-duration="3s">Are you ready to introduce your author's dream? We are here to serve as your stepping stone to success. Use the amazon publication services from Amz Publication Experts, then let's get start your journey.</p>
 </div>
 <div class="btn-box wow fadeInUp" data-wow-duration="3s">
 <a href="javascript:;" class="get-btn popup-btn">Get a Quote</a>
@@ -61,7 +61,7 @@
 <div class="row">
 <div class="col-sm-12">
 <div class="text-box platform-text-box">
-<h2 class="wow fadeInUp">Why Choose Amazon Publication Experts Publishing Services</h2>
+<h2 class="wow fadeInUp">Why Choose Amz Publication Experts Publishing Services</h2>
 <p>We provide best book publishing services for all. There are several reasons for choosing our self-publishing services.</p>
 </div>
 </div>
@@ -135,8 +135,8 @@
 <div class="ser-tex">
 <h4 class="wow fadeInUp" data-wow-duration="2s">We Use The Best Keywords Possible</h4>
 <h2 class="wow fadeInUp" data-wow-duration="3s">Making Your Book Available On Amazon</h2>
-<p class="wow fadeInUp" data-wow-duration="4s">The process of publishing books on Amazon is difficult. Most people are unaware of the numerous rules and guidelines that must be followed before publishing. Therefore, Amazon Publication Experts are here to assist you in your publishing journey. Moreover, writers are already drained from back-and-forth revisions after finishing their book when the stage of completion is near. <br><br>
-At Amazon Publication Experts, we handle everything from book writing to publication. Our team is highly knowledgeable about Amazon publishing services. Contact us today to learn more about our amazon publishing services and how we can help you turn your ebook publishing dreams into a reality.</p>
+<p class="wow fadeInUp" data-wow-duration="4s">The process of publishing books on Amazon is difficult. Most people are unaware of the numerous rules and guidelines that must be followed before publishing. Therefore, Amz Publication Experts are here to assist you in your publishing journey. Moreover, writers are already drained from back-and-forth revisions after finishing their book when the stage of completion is near. <br><br>
+At Amz Publication Experts, we handle everything from book writing to publication. Our team is highly knowledgeable about Amazon publishing services. Contact us today to learn more about our amazon publishing services and how we can help you turn your ebook publishing dreams into a reality.</p>
 </div>
 <div class="btn-box wow fadeInUp" data-wow-duration="3s">
 <a href="javascript:;" class="get-btn  popup-btn">Get a Quote</a>
@@ -197,7 +197,7 @@ At Amazon Publication Experts, we handle everything from book writing to publica
 <h4 class="wow fadeInUp" data-wow-duration="2s">Plan Your Amazon Marketing Strategy Wisely</h4>
 <h2 class="wow fadeInUp" data-wow-duration="3s">Self-Publishing Book On Amazon</h2>
 <p class="wow fadeInUp" data-wow-duration="4s">There has been a quick change in the book publishing industry as a result of numerous authors who have rejected traditional publications and launched their own publishing industries. However, "Self-Publishing a Book" is a complicated process with benefits as well as disadvantages. You do not need <br><br>
-to be concerned about self-publishing books on Amazon. The skilled publishing staff at Amazon Publication Experts will collaborate with you at each stage to produce a stunning, expert book that will showcase your abilities to readers.<b></p>
+to be concerned about self-publishing books on Amazon. The skilled publishing staff at Amz Publication Experts will collaborate with you at each stage to produce a stunning, expert book that will showcase your abilities to readers.<b></p>
 </div>
 <div class="btn-box wow fadeInUp" data-wow-duration="2s">
 <a href="javascript:;" class="get-btn popup-btn">Get a Quote</a>

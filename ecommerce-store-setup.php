@@ -486,7 +486,7 @@
 <div class="col-sm-12">
 <div class="text-box">
 <h2 class="wow fadeInUp" data-wow-duration="2s">We're Trusted by the Businesses You Love</h2>
-<p class="wow fadeInUp" data-wow-duration="3s">Amazon Publication Experts has worked with numerous renowned names in the industry. With our dedication and efforts, we have time and again proven that we're the best eCommerce store agency in the USA.</p>
+<p class="wow fadeInUp" data-wow-duration="3s">Amz Publication Experts has worked with numerous renowned names in the industry. With our dedication and efforts, we have time and again proven that we're the best eCommerce store agency in the USA.</p>
 </div>
 <div class="platform-img-box wow zoomIn" data-wow-duration="4s">
 <img src="images/platform-1.png">

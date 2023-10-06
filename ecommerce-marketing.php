@@ -423,7 +423,7 @@
 <div class="col-sm-12">
 <div class="text-box">
 <h2 class="wow fadeInUp" data-wow-duration="2s">Platforms We Are Associated With</h2>
-<p class="wow fadeInUp" data-wow-duration="3s">Amazon Publication Experts has an alliance with numerous online platforms. Here are a few of <br> many renowned brands we have set up Amazon shops for:</p>
+<p class="wow fadeInUp" data-wow-duration="3s">Amz Publication Experts has an alliance with numerous online platforms. Here are a few of <br> many renowned brands we have set up Amazon shops for:</p>
 </div>
 <div class="platform-img-box wow zoomIn" data-wow-duration="3s">
 <img src="images/platform-1.png">

@@ -22,7 +22,7 @@ function reconstruct_url($url){
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
     <link media="all" href="https://fonts.googleapis.com/css2?family=Spline+Sans:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet">
     <link media="all" href="https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet">
-    <title>Amazon Publication Experts | Hassle-free Book Publication Services NOW at ONLY 70% OFF</title>
+    <title>Amz Publication Experts | Hassle-free Book Publication Services NOW at ONLY 70% OFF</title>
 
 
 	<!-- Google Tag Manager -->
@@ -190,7 +190,7 @@ To Make Your<br> Manuscript A Best-Seller
         <div class="row">
             <div class="col-md-7">
                 <h2 class="zila">
-                    Get Your Book Published By <br>Amazon Publication Experts Without Having<br> To Worry About Upfront Costs
+                    Get Your Book Published By <br>Amz Publication Experts Without Having<br> To Worry About Upfront Costs
                 </h2>
                 <p>You won't have to worry about formatting, book editing, or marketing your book anymore. All of those are included in our amazon publishing services.</p>
                 <div class="seal">
@@ -211,7 +211,7 @@ To Make Your<br> Manuscript A Best-Seller
 <section class="our-process">
     <div class="container" data-aos="fade-up" data-aos-duration="1000">
         <h2 class="text-center zila">
-           Amazon Publication Experts Publishing Process
+           Amz Publication Experts Publishing Process
         </h2>
         <h3>Our 4 step Book publishing process will help you realize your dream of book publication. Get in touch with us to find out how our book publishers can assist you in releasing your book.</h3>
         <div class="owl-process owl-carousel owl-theme">
@@ -274,19 +274,19 @@ To Make Your<br> Manuscript A Best-Seller
         <div class="owl-testimonial owl-carousel owl-theme">
             <div class="item">
                 <div class="info-testi">
-                    <p>“I’ve had several of my books ghostwritten, edited, formatted, designed, and published through Amazon Publication Experts! They’ve taken my dreams of becoming a writer by profession and made it a reality and now all I have to do is come up with new book ideas.”</p>
+                    <p>“I’ve had several of my books ghostwritten, edited, formatted, designed, and published through Amz Publication Experts! They’ve taken my dreams of becoming a writer by profession and made it a reality and now all I have to do is come up with new book ideas.”</p>
                     <h4>Arnold Moss</h4>
                 </div>
             </div>
             <div class="item">
                 <div class="info-testi">
-                    <p>“As a writer who writes a lot of books every month, I never have the time to edit my book let alone go after publishing agencies to notice my manuscript. Amazon Publication Experts has taken a load off my back with their editing and publishing services!”</p>
+                    <p>“As a writer who writes a lot of books every month, I never have the time to edit my book let alone go after publishing agencies to notice my manuscript. Amz Publication Experts has taken a load off my back with their editing and publishing services!”</p>
                     <h4>Lindsey Page</h4>
                 </div>
             </div>
             <div class="item">
                 <div class="info-testi">
-                    <p>“It’s not easy keeping up with readers’ demands for sequels to a book series you start. That’s why I outsource some of my writing projects to Amazon Publication Experts! Their team is excellent with both the writing and the editing and they publish my work for me too!”</p>
+                    <p>“It’s not easy keeping up with readers’ demands for sequels to a book series you start. That’s why I outsource some of my writing projects to Amz Publication Experts! Their team is excellent with both the writing and the editing and they publish my work for me too!”</p>
                     <h4>Gabriel Watts</h4>
                 </div>
             </div>
@@ -372,7 +372,7 @@ To Make Your<br> Manuscript A Best-Seller
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <p> Copyright © 2023 - Amazon Publication Experts. All Rights Reserved</p>
+                <p> Copyright © 2023 - Amz Publication Experts. All Rights Reserved</p>
             </div>
          
         </div>
