@@ -54,16 +54,16 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <ul class="nav__list">
 
 <li><a class="hover-underline-animation" href="/">Home</a></li>
-<li><a class="hover-underline-animation" href="about-us.php">About</a></li>
-<li><a class="hover-underline-animation" href="ecommerce-store-setup.php">Ecommerce Store Setup</a></li>
-<li><a class="hover-underline-animation" href="ecommerce-marketing.php">Ecommerce Marketing</a></li>
-<li><a class="hover-underline-animation" href="amazon-ad-campaign.php">Amazon ad Campaign</a></li>
-<li><a class="hover-underline-animation" href="amazon-plus-marketing.php">AmazonPlus Marketing</a></li>
-<li><a class="hover-underline-animation" href="amazon-book-publishing.php">Amazon book Publishing</a></li>
-<li><a class="hover-underline-animation" href="deep-keyword.php">Deep Keyword</a></li>
-<li><a class="hover-underline-animation" href="amazon-author.php">Amazon Author</a></li>
-<li><a class="hover-underline-animation" href="brand-content.php">Brand Content</a></li>
-<li><a class="hover-underline-animation" href="contact-us.php">Contact Us</a></li>
+<li><a class="hover-underline-animation" href="about-us">About</a></li>
+<li><a class="hover-underline-animation" href="ecommerce-store-setup">Ecommerce Store Setup</a></li>
+<li><a class="hover-underline-animation" href="ecommerce-marketing">Ecommerce Marketing</a></li>
+<li><a class="hover-underline-animation" href="amazon-ad-campaign">Amazon ad Campaign</a></li>
+<li><a class="hover-underline-animation" href="amazon-plus-marketing">AmazonPlus Marketing</a></li>
+<li><a class="hover-underline-animation" href="amazon-book-publishing">Amazon book Publishing</a></li>
+<li><a class="hover-underline-animation" href="deep-keyword">Deep Keyword</a></li>
+<li><a class="hover-underline-animation" href="amazon-author">Amazon Author</a></li>
+<li><a class="hover-underline-animation" href="brand-content">Brand Content</a></li>
+<li><a class="hover-underline-animation" href="contact-us">Contact Us</a></li>
 </ul>
 </div>
 </div>
@@ -85,26 +85,26 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <li>
 <ul class="nav navbar-nav navbar-right">
 <li><a class="hover-underline-animation" class="hover-underline-animation" href="/">Home</a></li>
-<li><a class="hover-underline-animation" href="expertmarketting-service.php">Book Marketing</a></li>
-<li><a class="hover-underline-animation" href="expertghostwriting-service.php">Ghost Writing</a></li>
+<li><a class="hover-underline-animation" href="expertmarketting-service">Book Marketing</a></li>
+<li><a class="hover-underline-animation" href="expertghostwriting-service">Ghost Writing</a></li>
 <li class="dropdown"> <a class="dropdown-toggle" data-toggle="dropdown" href="javascript:;">Amazon Services <span class="caret"></span></a>
 <ul class="dropdown-menu">
 
  
-<li><a class="hover-underline-animation" href="expertpublishing-service.php">Publishing</a></li>
-<li><a class="hover-underline-animation" href="expertprinting-service.php">Priting</a></li>
-<li><a class="hover-underline-animation" href="ecommerce-store-setup.php">Ecommerce Store Setup</a></li>
-<li><a class="hover-underline-animation" href="ecommerce-marketing.php">Ecommerce Marketing</a></li>
-<li><a class="hover-underline-animation" href="amazon-ad-campaign.php">Amazon ad Campaign</a></li>
-<li><a class="hover-underline-animation" href="amazon-plus-marketing.php">AmazonPlus Marketing</a></li>
+<li><a class="hover-underline-animation" href="expertpublishing-service">Publishing</a></li>
+<li><a class="hover-underline-animation" href="expertprinting-service">Priting</a></li>
+<li><a class="hover-underline-animation" href="ecommerce-store-setup">Ecommerce Store Setup</a></li>
+<li><a class="hover-underline-animation" href="ecommerce-marketing">Ecommerce Marketing</a></li>
+<li><a class="hover-underline-animation" href="amazon-ad-campaign">Amazon ad Campaign</a></li>
+<li><a class="hover-underline-animation" href="amazon-plus-marketing">AmazonPlus Marketing</a></li>
 
 <li><a class="hover-underline-animation" href="deep-keyword">Deep Keyword</a></li>
 
 <li><a class="hover-underline-animation" href="brand-content">Brand Content</a></li>
 </ul>
 </li>
-<li><a class="hover-underline-animation" href="about-us.php">About</a></li>
-<li><a class="hover-underline-animation" href="contact-us.php">Contact Us </a></li>
+<li><a class="hover-underline-animation" href="about-us">About</a></li>
+<li><a class="hover-underline-animation" href="contact-us">Contact Us </a></li>
 <a href="javascript:;" class="get-btn popup-btn">Get a Quote</a>
 </ul>
 
